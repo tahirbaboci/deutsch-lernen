@@ -1,0 +1,321 @@
+* Artikel mit Adjektiv
+|-----------+------------+---------------------+--------------------+---------------------|
+|           |            | Maskulin            | Feminin            | Neutrum             |
+|-----------+------------+---------------------+--------------------+---------------------|
+|           |            | der Mann            | die Frau           | das Kind            |
+|-----------+------------+---------------------+--------------------+---------------------|
+| Nominativ |            |                     |                    |                     |
+|           | bestimmt   | der schöne Mann     | die schöne Frau    | das schöne Kind     |
+|           | unbestimmt | ein schöner Mann    | eine schöne Frau   | ein schönes Kind    |
+|           | Plural     | die schönen Männer  | die schönen Frauen | die schönen Kinder  |
+|-----------+------------+---------------------+--------------------+---------------------|
+| Dativ     |            |                     |                    |                     |
+|           | bestimmt   | dem schönen Mann    | der schönen Frau   | dem schönen Kind    |
+|           | unbestimmt | einem schönen Mann  | einer schönen Frau | einem schönen Kind  |
+|           | Plural     | den schönen Männern | den schönen Frauen | den schönen Kindern |
+|-----------+------------+---------------------+--------------------+---------------------|
+| Akkusativ |            |                     |                    |                     |
+|           | bestimmt   | den schönen Mann    | die schöne Frau    | das schöne Kind     |
+|           | unbestimmt | einen schönen Mann  | eine schöne Frau   | ein schönes Kind    |
+|           | Plural     | die schönen Männer  | die schönen Frauen | die schönen Kinder  |
+|-----------+------------+---------------------+--------------------+---------------------|
+| Genitiv   |            |                     |                    |                     |
+|           | bestimmt   |                     |                    |                     |
+|           | unbestimmt |                     |                    |                     |
+|           | Plural     |                     |                    |                     |
+|-----------+------------+---------------------+--------------------+---------------------|
+* Satz Struktur
+|----------+--------------+----------+----------+---------+---------------+-------+-------+-------+---------------|
+| *Subjekt | Verb 1       |          | TE       | KA      | MO            |       | LO    |       | V2*           |
+|----------+--------------+----------+----------+---------+---------------+-------+-------+-------+---------------|
+|          |              | _Dativ_  | Temporal | Kausal  | Modal         | _AKK_ | Lokal | _AKK_ |               |
+|----------+--------------+----------+----------+---------+---------------+-------+-------+-------+---------------|
+|          | - Hilfs Verb |          | - Zeit   | - Grund | - Art & Weise |       | - Ort |       | - Partizip 2  |
+|          | - Modal Verb |          | - Wann   | - Warum | - Wie         |       | - Wo  |       | - Infinitiv   |
+|          | - Verb Stamm |          |          |         |               |       |       |       | - Verb Prefix |
+|----------+--------------+----------+----------+---------+---------------+-------+-------+-------+---------------|
+** Dativ und Akkusativ
+|---------------------+---------------------+------------------------------------|
+| Nomen      Nomen    | Dat           Akk   | Ich schenke dem Hund einen Knochen |
+|---------------------+---------------------+------------------------------------|
+| Pronomen   Pronomen | Akk           Dat   | Ich schenke ihn ihm                |
+|---------------------+---------------------+------------------------------------|
+| Pronomen   Nomen    | Pronomen vor  Nomen | Ich schenke ihn einem Hund         |
+|                     |                     | Ich schenke ihm einen Knochen      |
+|---------------------+---------------------+------------------------------------|
+* Prapositionen *sagen welche Kasous bestimmen*
+|-------------------+------+----------|
+| *immer akkustaiv* |      |          |
+|-------------------+------+----------|
+|                   | d    | durch    |
+|                   | o    | ohne     |
+|                   | g    | gegen    |
+|                   | f    | für      |
+|                   | u    | um       |
+|-------------------+------+----------|
+| *immer dativ*     |      |          |
+|-------------------+------+----------|
+|                   | Herr |          |
+|                   |      | aus      |
+|                   |      | bei      |
+|                   |      | nach     |
+|                   | Frau |          |
+|                   |      | von      |
+|                   |      | seit     |
+|                   |      | zu       |
+|                   |      | mit      |
+|-------------------+------+----------|
+| *Wechsel*         |      |          |
+|-------------------+------+----------|
+|                   |      | auf      |
+|                   |      | über     |
+|                   |      | in       |
+|                   |      | an       |
+|                   |      | vor      |
+|                   |      | neben    |
+|                   |      | zwischen |
+|                   |      | unter    |
+|-------------------+------+----------|
+* Pronomen
+** Reflexiv Pronomen 
+|----------------------------------------------------------|
+| *mich, mir, dich, dir, sich, uns, euch und sich*.        |
+| Sie werden mit reflexiven und reziproken Verben benutzt. |
+| Sie beziehen sich immer auf das Subjekt.                 |
+|----------------------------------------------------------|
+** Prapositional Pronomen *nur for Sache (things)*
+|---------------------+-------+---------+---------+--------------------------------|
+| Adv + Prapositionen |       |         |         |                                |
+|---------------------+-------+---------+---------+--------------------------------|
+| da (r)              |       |         |         |                                |
+|                     | auf   | darauf  |         |                                |
+|                     | an    | daran   | woran   | Ich möchte daran nicht denken. |
+|                     | mit   | damit   | womit   |                                |
+|                     | durch | dadurch |         |                                |
+|                     | über  | darüber | worüber |                                |
+|---------------------+-------+---------+---------+--------------------------------|
+** Relative Pronomen
+|           | *Maskulin | Feminin | Neutrum | Plural* |                                                     |
+|-----------+-----------+---------+---------+---------+-----------------------------------------------------|
+| Genitiv   | dessen    | deren   | dessen  | deren   | Die Frau, deren Mann Pilot ist, heißt Ingrid        |
+|-----------+-----------+---------+---------+---------+-----------------------------------------------------|
+| Nominativ | der       | die     | das     | die     | Der Mann, der dort steht, ist mein Vater            |
+|-----------+-----------+---------+---------+---------+-----------------------------------------------------|
+| Dativ     | dem       | der     | dem     | denen   | Das Haus, vom dem ich träume, hat ein Schwimmbecken |
+|           |           |         |         |         | Das sind die Frauen, denen ich vertraue.            |
+|-----------+-----------+---------+---------+---------+-----------------------------------------------------|
+| Akkustaiv | den       | die     | das     | die     | Der Bus, auf den ich Warte, kommt in 10 Minuten     |
+|-----------+-----------+---------+---------+---------+-----------------------------------------------------|
+
+- Die Relativpronomen leiten Relativsätze ein
+- Das genus und der Numerus vom Bezugswort bestimmem
+- Das Verb des Nebensatz bestimmt den Kasus des Relativepronomens
+- oder, wenn vorhanden die Praposition
+* Modal verben
+|---------+---------------|
+| müssen  | Notwendigkeit |
+| wollen  |               |
+| dürfen  |               |
+| sollen  |               |
+| möchten |               |
+| können  |               |
+|---------+---------------|
+* Konjunktiv 2
+|--------+------------------+---------------------------+-------------------------------|
+| gehört |                  |                           |                               |
+|--------+------------------+---------------------------+-------------------------------|
+|        | irrelae Gedanken |                           |                               |
+|        | wünsch           |                           |                               |
+|        | der Vorschlag    |                           |                               |
+|--------+------------------+---------------------------+-------------------------------|
+| Regal  | Gegenwart        |                           |                               |
+|        |                  | würde + Inf               |                               |
+|        |                  |                           |                               |
+|--------+------------------+---------------------------+-------------------------------|
+|        | Ausnahmen        | Hilfsverb                 | ich hätte/ich wäre            |
+|        |                  | Modalverb                 | ich müsste/ich könnte         |
+|        |                  | brauchen                  | ich bräuchte                  |
+|        |                  | wissen                    | ich wüsste                    |
+|--------+------------------+---------------------------+-------------------------------|
+|        | Vergangenheit    | HV in Konk 2 + Partizip 2 |                               |
+|        |                  |                           | Ich hätte die Pizza gegessen  |
+|        |                  |                           | Ich wäre in den Park gegangen |
+|--------+------------------+---------------------------+-------------------------------|
+* Negation
+** benutzen Wort
+|-----------------------+------------------|
+| nichts                | alles/etwas      |
+| nie/niemals           | immer            |
+| nicht mehr            | immer noch       |
+| noch nicht / noch nie | schon einmal     |
+| nirgendwo             | irgendwo/überall |
+| noch nichts           | schon bereit     |
+| niemand               | alle/jemand      |
+|-----------------------+------------------|
+** Wörter
+| Prefix | Nom/Adj      |      |                     |
+|--------+--------------+------+---------------------|
+|        |              | un   | unfreundlich        |
+|        |              | in   | inakzebtabel        |
+|        |              | il   | illegal             |
+|        |              | a    | atypisch            |
+|        |              | ir   | irrational, irreal  |
+|        |              | um   | das Umwetter        |
+|--------+--------------+------+---------------------|
+| Suffix | adj          |      |                     |
+|--------+--------------+------+---------------------|
+|        |              | los  | kostenlos           |
+|        |              | frei | alkoholfrei         |
+|        |              | leer | inhaltsleer         |
+|--------+--------------+------+---------------------|
+| Nicht- | Nominativ    |      |                     |
+|--------+--------------+------+---------------------|
+|        |              |      | Nichtraucher        |
+|        |              |      | Nichtschwimmer      |
+|--------+--------------+------+---------------------|
+| Prefix | Nom/Adj/Verb |      |                     |
+|--------+--------------+------+---------------------|
+|        |              | des  | das Desinteresse    |
+|        |              | di   | die Disharmonie     |
+|        |              | miss | das Missverstandnis |
+|--------+--------------+------+---------------------|
+** Wenn *nicht* einen ganzen Satz verneirt, steht es am Ende des Satzes.
+|--------------------------------------------------------+-------------------------------------------------|
+| am Ende des Satzes                                     | Das schmeckt mir nicht.                         |
+| vor dem zweiten teil der Satzklammer                   | Ich lade ihn nicht ein                          |
+| vor enimem Adjektiv/Adverb                             | Ich finde das Bild nicht schon                  |
+| vor einer Praposition oder einer Praposition ergänzung | Du kannst das Auto nicht an diese Straße fahren |
+| vor lokalen Angaben                                    | Das Buch ist nicht hier.                        |
+|--------------------------------------------------------+-------------------------------------------------|
+* Comapartiv
+|---------------+----------------------------+---------------------------------------------|
+| Gleichheit    | so/genauso + Positiv + wie | Ich bin so groß wie du                      |
+|               |                            | Das is genauso schwer wie gedacht.          |
+|---------------+----------------------------+---------------------------------------------|
+| Vergleichsatz | als + wie                  |                                             |
+|               |                            |                                             |
+| Ungleichheit  | Komparativ + als           | Ich bin schaluer also du                    |
+|               | anders als                 | Ich habe das anders verstanden als gemeint. |
+|               | etwas/nichts anders als    | Die Rede was nichts anders als inhaltlos.   |
+* Konnektoren _Satz verbinden_
+|-----------------|
+| HS + NS         |
+| HS + HS         |
+| Zwei Satz teile |
+|-----------------|
+** Je....desto/umso
+|-----+------------+--------------------+---+------------+------------+---------------------------|
+| *Je | Komparativ | NS                 | , | desto/umso | Komparativ | HS*                       |
+|-----+------------+--------------------+---+------------+------------+---------------------------|
+| Je  | deutlicher | die Signale sind   | , | desto      | besser     | verstehe ich sie          |
+|-----+------------+--------------------+---+------------+------------+---------------------------|
+| Je  | mehr       | Vokablen du lernst | , | umso       | schneller  | verstehst du die Deuschen |
+|-----+------------+--------------------+---+------------+------------+---------------------------|
+** um zu, ohne zu, (an)statt zu und Alternativen
+|------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
+|                              | *gleiches Subjekt im Haupt- und Nebensatz | unterschiedliche Subjekte im Haupt und Nebensatz* |                                                   |
+|------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
+| Bedeutung                    |                                           |                                                   |                                                   |
+|------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
+| *Absicht/Zweck, Ziel (final) | um         + zu + Infinitiv               | damit*                                            |                                                   |
+|------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
+|                              | Ich rufe an, um das Teamevent zu buchen.  | Iche rufe an, damit die Firma ein Angebot         | Ich rufe an, weil ich das Teamevent buche möchte. |
+|                              |                                           | erstellt                                          |                                                   |
+|                              |                                           |                                                   | Ich rufe zum Buchen de Teamevents an.             |
+|------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
+| *Einschränkung (restriktiv)  | ohne       + zu + Infinitiv               | ohne dass*                                        |                                                   |
+|------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
+|                              | Ich habe lange gewartet, ohne ein         | Ich habe lange gewartet, ohne dass die Firma ein  | Ich habe lange gewartet, aber ich habe das        |
+|                              | Angebot zu bekommen.                      | Angebot geschickt hat.                            | Angebot nicht bekommen.                           |
+|                              |                                           |                                                   |                                                   |
+|                              |                                           |                                                   | Ich habe lange gewartet, trotzdem habe ich das    |
+|                              |                                           |                                                   | Angebot nicht bekommen.                           |
+|------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
+| *Alternative oder Gegensatz  | (an) statt + zu + Infinitiv               | (an) statt dass*                                  |                                                   |
+|------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
+|                              | (An)statt lange zu telefonieren, könntest | (An)statt wir lange telefonieren, könnten Sie mir |                                                   |
+|                              | du das Angebot fertig machen.             | das Angebot per Mail schicken.                    |                                                   |
+|------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
+
+* *Das Wort Es. 
+** es als Subjekt oder Objeky. *Wenn _es_ Objekt ist, steht _es_ niemals auf Position 1*
+|---------------------------------+--------------------------------------------+------------|
+|                                 | als Subjekt                                | als Objekt |
+|---------------------------------+--------------------------------------------+------------|
+| Wetterverben                    | es regnet, es nieselt                      |            |
+|                                 | es donnert, es gewittert                   | ------     |
+|                                 | es hagelt, es stürmt,                      |            |
+|                                 | es blitzt                                  |            |
+|---------------------------------+--------------------------------------------+------------|
+| Tages- und Jahres-zeiten        | Es ist Morgen.                             |            |
+|                                 | Es wird Nacht.                             |            |
+|                                 | Es wird Fruhling.                          | -------    |
+|---------------------------------+--------------------------------------------+------------|
+| Natur- und Zeit-erscheinugen    | Es ist schon spät.                         |            |
+|                                 | Im Winter bleibt es lange dunkel.          |            |
+|                                 | Es zieht.                                  | -------    |
+|---------------------------------+--------------------------------------------+------------|
+| feste lexikalische Verbindungen | es geht, es gibt, es ist, es eilt mit +D   |            |
+|                                 | es fehlt an + D, es geht um + A,           |            |
+|                                 | es handelt sich um + A, es klappt mit + D, |            |
+|                                 | es kommt an auf + A                        |            |
+|---------------------------------+--------------------------------------------+------------|
+** es als Stellvertreter von dass-Sätzen oder Infinitivkonstruktieren
+|--------------------------------------------+-----+----------------+--------------------------------------------|
+| es                                         | ist | verwunderlich, | dass viele Menschen Smalltalk nicht mögen. |
+| Dass viele Menschen Smalltalk nicht mögen, | ist | verwunderlich. |                                            |
+|--------------------------------------------+-----+----------------+--------------------------------------------|
+
+|-----------------------------------------+--------+-------+-----+-----------------------------------------|
+| Viele                                   | lehnen | es    | ab, | ein nichtsagendes Gespräch zu beginnen. |
+| Ein nichtsagendes Gespräch zu beginnen, | lehnen | viele | ab. |                                         |
+|-----------------------------------------+--------+-------+-----+-----------------------------------------|
+* Redepartikel
+|---------------+-------------------------------+----------------------------------------------------------|
+| *Redepartikel | Bedeutung                     | Beispiel*                                                |
+|---------------+-------------------------------+----------------------------------------------------------|
+| aber          | Überraschung                  | Du bist aber groß geworden                               |
+|---------------+-------------------------------+----------------------------------------------------------|
+| denn          | Interresse                    | Wie heißt denn deinen neuen Freund?                      |
+|               | Überraschung                  | Hast dun denn einen neuen Freund?                        |
+|---------------+-------------------------------+----------------------------------------------------------|
+| doch          | Ermunterung                   | Komm doch mit                                            |
+|               | Empörung                      | Das kann doch nicht Wahr sein.                           |
+|---------------+-------------------------------+----------------------------------------------------------|
+| eigentlich    | vergessne Frage               | Wie heißt du eigentlich?                                 |
+|---------------+-------------------------------+----------------------------------------------------------|
+| ja            | Überraschung                  | Du bist ja schon groß.                                   |
+|               | Idee                          | Du kannst ja deinen Lehrer fragen.                       |
+|               | Warnung                       | Pass ja auf, was du sagst.                               |
+|---------------+-------------------------------+----------------------------------------------------------|
+| mal           | Aufforderung                  | Komm mal bitte.                                          |
+|---------------+-------------------------------+----------------------------------------------------------|
+| ruhig         | entspannt sein / kein Problem | Komm ruhig sein.                                         |
+|---------------+-------------------------------+----------------------------------------------------------|
+| schon         | ungeduldige Ermunterung       | Jetzt komm schon heir.                                   |
+|               | Einschränkungen               | Das kannst du schon machen, aber ich finde es nicht gut. |
+|---------------+-------------------------------+----------------------------------------------------------|
+| vielleicht    | Überraschung                  | Du bist vielleicht groß geworden.                        |
+|               | Aufforderung                  | Können Sie vielleicht das Fenster schließen.             |
+|---------------+-------------------------------+----------------------------------------------------------|
+| einfach       | ruhig                         | Komm einfach rein.                                       |
+|---------------+-------------------------------+----------------------------------------------------------|
+| standig       | immer                         |                                                          |
+|---------------+-------------------------------+----------------------------------------------------------|
+| erschreckt    | -ve Überraschung              |                                                          |
+|---------------+-------------------------------+----------------------------------------------------------|
+* Final Satz
+* Relativesätze
+- Genus und Pronomen --> Bezugswort
+- Kasus --> Verb im Relativesatz oder Präposition
+** unbestimmte Pronommen
+- Struktur : *RelativPronomen NS , DominativPronomen HS*
+|-----------+------------+-----------------------------------------------------|
+| Kasus     | Pronomomen | Beispeil                                            |
+|-----------+------------+-----------------------------------------------------|
+| Nominativ | wer        | Wer Deutsch lernen möchte, der soll in Schule gehen |
+| Akkustaiv | wen        | Wen der Trainier aussucht, der hat Glück            |
+| Dativ     | wem        | Wem ich geholfen habe, der ist ein Freund von mir.  |
+|-----------+------------+-----------------------------------------------------|
+- Wenn beide Pronomen hat gleiche Kasus, braucht man nich DominativPronomen
+  - Wem der Trainier hilft, (dem) schenkt er viel Zeit.
