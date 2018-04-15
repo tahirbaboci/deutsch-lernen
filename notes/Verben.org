@@ -64,10 +64,61 @@
 | *Trennbare oder nich trennbare* | durch, über, um, unter               | Er fährt das Schild um. |
 |                                 |                                      | Er umfährt das Schild.  |
 ** Wenn das Prefix eine eigene Bedeutung hat.
-* Verben mit nomen/Präposition
-|                        | Bedeutung            | Beispeil |
-|------------------------+----------------------+----------|
-| vor die Wahl *stellen* | Alternativ geben     |          |
-| leisten zukönnen       | gut sein             |          |
-| Mist bauen             | etwas falsch handeln |          |
-| Rucksicht nehmen       | /to be considerate/  |          |
+* Verben mit Präposition
+|------------------------+------------------+----------|
+|                        | Bedeutung        | Beispeil |
+|------------------------+------------------+----------|
+| vor die Wahl *stellen* | Alternativ geben |          |
+| leisten zukönnen       | gut sein         |          |
+| achten auf             |                  |          |
+| denken an              |                  |          |
+| sich interessieren für |                  |          |
+| träumen von            |                  |          |
+| sich treffen mit       |                  |          |
+| aufbringen für         |                  |          |
+|------------------------+------------------+----------|
+* Nomen mit festen Präposition
+|-----------+--------------------+----------|
+|           | Bedeutung          | Beispeil |
+|-----------+--------------------+----------|
+|           | Erinnerung an      |          |
+|           | Bitte um           |          |
+|           | Antwort auf        |          |
+| Akkusativ | Lust auf           |          |
+|           | Ärger über         |          |
+|           | Freude auf/an/über |          |
+|           | Aufregung über     |          |
+|           | Entschulding für   |          |
+|-----------+--------------------+----------|
+| Dativ     | Angst von          |          |
+|           | Abhänkigkeit von   |          |
+|           | Bleibtheit bei     |          |
+|           | Liebe zu           |          |
+|           | Zufriedenheit mit  |          |
+|           | Beschäftigung mit  |          |
+|-----------+--------------------+----------|
+* Adjektive mit festen Präposition
+|-----------+------------------+----------|
+|           | Bedeutung        | Beispeil |
+|-----------+------------------+----------|
+|           | stolz auf        |          |
+|           | ungeeignet für   |          |
+|           | gewöhnt an       |          |
+| Akkusativ | verliebt in      |          |
+|           | erstaunt über    |          |
+|           | eifersüchtig auf |          |
+|-----------+------------------+----------|
+| Dativ     | vertraut mit     |          |
+|           | überzeugt von    |          |
+|           | unzufrieden mit  |          |
+|           | bereit zu        |          |
+|           | beliebt bei      |          |
+|           | enttäuscht von   |          |
+|           | nett zu          |          |
+|-----------+------------------+----------|
+* Verben mit Nomen
+|------------------+----------------------+----------|
+|                  | Bedeutung            | Beispeil |
+|------------------+----------------------+----------|
+| Mist bauen       | etwas falsch handeln |          |
+| Rucksicht nehmen | /to be considerate/  |          |
