@@ -1,4 +1,12 @@
-#+OPTIONS: toc: 1
+* Table of Contents
+- [[#dativ-und-akkustativ-verben][Dativ und Akkustativ Verben]]
+- [[#ha%C3%BCfigbenutzte-verben][Haüfigbenutzte verben]]
+- [[#verben-mit-untershiedlichen-verwendenen][Verben mit untershiedlichen Verwendenen]]
+- [[#trennbare-verben][Trennbare Verben]]
+- [[#verben-mit-pr%C3%A4position][Verben mit Präposition]]
+- [[#nomen-mit-festen-pr%C3%A4position][Nomen mit festen Präposition]]
+- [[#adjektive-mit-festen-pr%C3%A4position][Adjektive mit festen Präposition]]
+- [[#verben-mit-nomen][Verben mit Nomen]]
 * Dativ und Akkustativ Verben
 |--------------+----------+-----------------------------|
 | Dat          | Akk      | Beispiel                    |
