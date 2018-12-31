@@ -1,4 +1,4 @@
-* *Dativ und Akk Verben*
+* Dativ und Akkustativ Verben
 |--------------+----------+-----------------------------|
 | Dat          | Akk      | Beispiel                    |
 |--------------+----------+-----------------------------|
@@ -6,11 +6,11 @@
 | sich setzen  | sitzen   |                             |
 | sich stellen | stehen   |                             |
 | hängen       | hängen   |                             |
-|              |          |                             |
+|--------------+----------+-----------------------------|
 | anziehen     | anziehen | Ich ziehe mich an           |
 |              |          | Ich ziehe mir den Mantel an |
-|              |          |                             |
-* Verben
+
+* Haüfigbenutzte verben
 |--------------------------------------+-----------+---------------+--------------------------------------------|
 | Verb                                 | Kasus     | Prapositionen | Beispeil                                   |
 |--------------------------------------+-----------+---------------+--------------------------------------------|
@@ -18,24 +18,21 @@
 | beschweren + sich + über + Akkusativ | Akkusativ | über          | Ich beschwere mich über das Wetter.        |
 | verlieben + in + Akkusativ + sich    | Akkusativ | in            | Ich bin in einen Mann verliebt             |
 | sich aufregen über                   | Akkusativ | über          | Ich rege mich über dich auf                |
-|                                      |           |               | Ich ärgere mich über dich.                 |
+|--------------------------------------+-----------+---------------+--------------------------------------------|
 | sich kümmern um                      |           | um            |                                            |
 | sprechen über                        | Akkusativ | über          | Ich spreche mit meinem Vater über ihn.     |
 | fragen nach                          | Dativ     | nach          | Ich frage nach dem Weg.                    |
 | verlieben in                         | Akkusativ | in            | Ich bein in meine Frau verliebt.           |
 | bedanken sich mit/beit für           | Akkusativ | für           | Ich bedanke mich bei euch für das Geschenk |
-|                                      |           |               |                                            |
+|--------------------------------------+-----------+---------------+--------------------------------------------|
 * Verben mit untershiedlichen Verwendenen
 |---------------+------------------------------+---------------------------------------------------+------------------------------------------|
 | *Verb         | Verwenden                    | Grund/Bedeutung*                                  | Beispiel                                 |
 |---------------+------------------------------+---------------------------------------------------+------------------------------------------|
 | treffen       | - reflexiv                   | zufällig                                          | Ich treffe mich mit dem Mann am MP.      |
-|               |                              |                                                   |                                          |
-|               |                              |                                                   |                                          |
 |               | - ohne praposition           | vereinbaren                                       | Ich treffe mit den Mann am MP.           |
 |---------------+------------------------------+---------------------------------------------------+------------------------------------------|
 | verlassen     | -                            | weggehen                                          | Ich verlasse dich.                       |
-|               |                              |                                                   |                                          |
 |               | - sich verlassen + auf + Akk | vertrauen haben                                   | Ich verlasses mich auf dich.             |
 |---------------+------------------------------+---------------------------------------------------+------------------------------------------|
 | freuen        | - sich freuen über           | Vergenganheit/Gegenwart                           |                                          |
@@ -53,7 +50,6 @@
 | informieren   | sich informieren über        | Informationen zu einem bestimmen Thema beschaffen | Ich informiere mich über die Terminzeit. |
 |               | informieren über             | jemandem etwas mitteilen                          | Ich informiere dich von etwas.           |
 |---------------+------------------------------+---------------------------------------------------+------------------------------------------|
-|               |                              |                                                   |                                          |
 
 * Trennbare Verben
 |---------------------------------+--------------------------------------+-------------------------|
@@ -63,7 +59,8 @@
 |---------------------------------+--------------------------------------+-------------------------|
 | *Trennbare oder nich trennbare* | durch, über, um, unter               | Er fährt das Schild um. |
 |                                 |                                      | Er umfährt das Schild.  |
-** Wenn das Prefix eine eigene Bedeutung hat.
+
+- Wenn das Prefix eine eigene Bedeutung hat.
 * Verben mit Präposition
 |------------------------+------------------+----------|
 |                        | Bedeutung        | Beispeil |

@@ -78,11 +78,10 @@
 |-------------------+------+----------|
 * Pronomen
 ** Reflexiv Pronomen 
-|----------------------------------------------------------|
-| *mich, mir, dich, dir, sich, uns, euch und sich*.        |
-| Sie werden mit reflexiven und reziproken Verben benutzt. |
-| Sie beziehen sich immer auf das Subjekt.                 |
-|----------------------------------------------------------|
+-  *mich, mir, dich, dir, sich, uns, euch und sich*.
+- Sie werden mit reflexiven und reziproken Verben benutzt.
+- Sie beziehen sich immer auf das Subjekt.
+
 ** Prapositional Pronomen *nur for Sache (things)*
 |---------------------+-------+---------+---------+--------------------------------|
 | Adv + Prapositionen |       |         |         |                                |
@@ -95,6 +94,7 @@
 |                     | über  | darüber | worüber |                                |
 |---------------------+-------+---------+---------+--------------------------------|
 ** Relative Pronomen
+|-----------+-----------+---------+---------+---------+-----------------------------------------------------|
 |           | *Maskulin | Feminin | Neutrum | Plural* |                                                     |
 |-----------+-----------+---------+---------+---------+-----------------------------------------------------|
 | Genitiv   | dessen    | deren   | dessen  | deren   | Die Frau, deren Mann Pilot ist, heißt Ingrid        |
@@ -154,6 +154,7 @@
 | niemand               | alle/jemand      |
 |-----------------------+------------------|
 ** Wörter
+|--------+--------------+------+---------------------|
 | Prefix | Nom/Adj      |      |                     |
 |--------+--------------+------+---------------------|
 |        |              | un   | unfreundlich        |
@@ -180,7 +181,7 @@
 |        |              | di   | die Disharmonie     |
 |        |              | miss | das Missverstandnis |
 |--------+--------------+------+---------------------|
-** Wenn *nicht* einen ganzen Satz verneirt, steht es am Ende des Satzes.
+** Wenn /nicht/ einen ganzen Satz verneirt, steht es am Ende des Satzes.
 |--------------------------------------------------------+-------------------------------------------------|
 | am Ende des Satzes                                     | Das schmeckt mir nicht.                         |
 | vor dem zweiten teil der Satzklammer                   | Ich lade ihn nicht ein                          |
@@ -238,8 +239,8 @@
 |                              | du das Angebot fertig machen.             | das Angebot per Mail schicken.                    |                                                   |
 |------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
 
-* *Das Wort Es.* 
-** es als Subjekt oder Objeky. *Wenn _es_ Objekt ist, steht _es_ niemals auf Position 1*
+* Das Wort Es.
+** es als Subjekt oder Objeky. /Wenn _es_ Objekt ist, steht _es_ niemals auf Position 1/
 |---------------------------------+--------------------------------------------+------------|
 |                                 | als Subjekt                                | als Objekt |
 |---------------------------------+--------------------------------------------+------------|
@@ -311,12 +312,12 @@
 - Kasus --> Verb im Relativesatz oder Präposition
 ** unbestimmte Pronommen
 - Struktur : *RelativPronomen NS , DominativPronomen HS*
-|-----------+------------+-----------------------------------------------------|
-| Kasus     | Pronomomen | Beispeil                                            |
-|-----------+------------+-----------------------------------------------------|
-| Nominativ | wer        | Wer Deutsch lernen möchte, der soll in Schule gehen |
-| Akkustaiv | wen        | Wen der Trainier aussucht, der hat Glück            |
-| Dativ     | wem        | Wem ich geholfen habe, der ist ein Freund von mir.  |
-|-----------+------------+-----------------------------------------------------|
+|-----------+------------+--------------------------------------------------------|
+| Kasus     | Pronomomen | Beispeil                                               |
+|-----------+------------+--------------------------------------------------------|
+| Nominativ | wer        | /Wer Deutsch lernen möchte, der soll in Schule gehen./ |
+| Akkustaiv | wen        | /Wen der Trainier aussucht, der hat Glück./            |
+| Dativ     | wem        | /Wem ich geholfen habe, der ist ein Freund von mir./   |
+|-----------+------------+--------------------------------------------------------|
 - Wenn beide Pronomen hat gleiche Kasus, braucht man nich DominativPronomen
-  - Wem der Trainier hilft, (dem) schenkt er viel Zeit.
+  - z.b. /Wem der Trainier hilft, (dem) schenkt er viel Zeit./
