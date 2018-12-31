@@ -1,5 +1,18 @@
-#+OPTIONS: toc: 1
-
+* Table of Contents
+- [[*Artikel mit Adjektiv][Artikel mit Adjektiv]]
+- [[*Satz Struktur][Satz Struktur]]
+- [[*Prapositionen][Prapositionen]]
+- [[*Pronomen][Pronomen]]
+- [[*Modal verben][Modal verben]]
+- [[*Konjunktiv II][Konjunktiv II]]
+- [[*Konjunktiv I][Konjunktiv I]]
+- [[*Negation][Negation]]
+- [[*Comapartiv][Comapartiv]]
+- [[*Konnektoren][Konnektoren]]
+- [[*Das Wort Es][Das Wort Es]]
+- [[*Redepartikel][Redepartikel]]
+- [[*Final Satz][Final Satz]]
+- [[*Relatives%C3%A4tze][Relativesätze]]
 * Artikel mit Adjektiv
 |-----------+------------+---------------------+--------------------+---------------------|
 |           |            | Maskulin            | Feminin            | Neutrum             |
@@ -45,7 +58,8 @@
 | Pronomen   Nomen    | Pronomen vor  Nomen | Ich schenke ihn einem Hund         |
 |                     |                     | Ich schenke ihm einen Knochen      |
 |---------------------+---------------------+------------------------------------|
-* Prapositionen /sagen welche Kasous bestimmen/
+* Prapositionen
+- *sagen welche Kasous bestimmen*
 |-------------------+------+----------|
 | *immer akkustaiv* |      |          |
 |-------------------+------+----------|
@@ -201,7 +215,8 @@
 | Ungleichheit  | Komparativ + als           | Ich bin schaluer also du                    |
 |               | anders als                 | Ich habe das anders verstanden als gemeint. |
 |               | etwas/nichts anders als    | Die Rede was nichts anders als inhaltlos.   |
-* Konnektoren _Satz verbinden_
+* Konnektoren
+- *Satz verbinden*
 |-----------------|
 | HS + NS         |
 | HS + HS         |
@@ -241,7 +256,7 @@
 |                              | du das Angebot fertig machen.             | das Angebot per Mail schicken.                    |                                                   |
 |------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
 
-* Das Wort Es.
+* Das Wort Es
 ** es als Subjekt oder Objeky. /Wenn _es_ Objekt ist, steht _es_ niemals auf Position 1/
 |---------------------------------+--------------------------------------------+------------|
 |                                 | als Subjekt                                | als Objekt |
