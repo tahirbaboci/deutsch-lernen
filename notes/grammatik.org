@@ -45,7 +45,7 @@
 | Pronomen   Nomen    | Pronomen vor  Nomen | Ich schenke ihn einem Hund         |
 |                     |                     | Ich schenke ihm einen Knochen      |
 |---------------------+---------------------+------------------------------------|
-* Prapositionen *sagen welche Kasous bestimmen*
+* Prapositionen /sagen welche Kasous bestimmen/
 |-------------------+------+----------|
 | *immer akkustaiv* |      |          |
 |-------------------+------+----------|
