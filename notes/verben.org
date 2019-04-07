@@ -3,7 +3,7 @@
 - [[#ha%C3%BCfigbenutzte-verben][Haüfigbenutzte verben]]
 - [[#verben-mit-untershiedlichen-verwendenen][Verben mit untershiedlichen Verwendenen]]
 - [[#trennbare-verben][Trennbare Verben]]
-- [[#verben-mit-pr%C3%A4position][Verben mit Präposition]]
+- [[verben-mit-praepositionen.org][Verben mit Präposition]]
 - [[#nomen-mit-festen-pr%C3%A4position][Nomen mit festen Präposition]]
 - [[#adjektive-mit-festen-pr%C3%A4position][Adjektive mit festen Präposition]]
 - [[#verben-mit-nomen][Verben mit Nomen]]
@@ -70,19 +70,6 @@
 |                                 |                                      | Er umfährt das Schild.  |
 
 - Wenn das Prefix eine eigene Bedeutung hat.
-* Verben mit Präposition
-|------------------------+------------------+----------|
-|                        | Bedeutung        | Beispeil |
-|------------------------+------------------+----------|
-| vor die Wahl *stellen* | Alternativ geben |          |
-| leisten zukönnen       | gut sein         |          |
-| achten auf             |                  |          |
-| denken an              |                  |          |
-| sich interessieren für |                  |          |
-| träumen von            |                  |          |
-| sich treffen mit       |                  |          |
-| aufbringen für         |                  |          |
-|------------------------+------------------+----------|
 * Nomen mit festen Präposition
 |-----------+--------------------+----------|
 |           | Bedeutung          | Beispeil |

@@ -1,0 +1,29 @@
+* mit
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| anfangen mit          | etwas hat etwas als Beginn         | Ich fange um 8 Uhr mit dem Frühstuck an.                   |
+|                       |                                    | Wann hast du mit dem Laufen angefangem?                    |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| aufhören mit          | etwas nicht mehr machen/tun        | Du müsst mit dem Rauchen aufhören.                         |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| sich beeilen mit      | etwas schnell machen               | Ich muss mich mit dem Aufraümen beeilen.                   |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| sich mit jdm. einigen | mit jemandem Verständnis erreichen | Du musst dich mit deiner Frau geeinigt.                    |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| rechnen mit           | etwas erwarten                     | Ich habe mit der Verspätung nicht gerechnet.               |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| schimpfen mit         | mit jemandem streiten              | Ich habe mit meiner Frau geschimpft.                       |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| spielen mit           | --                                 | Ich spiele mit meiner Handy.                               |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| sprechen mit          | --                                 | Morgen spreche ich mit meinem Chef.                        |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| reden mit             | --                                 | Morgen rede ich mit meiner Frau über den Urlaub.           |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| sich streiten mit     | --                                 | Er streitet sich immer mit seiner Frau.                    |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| telefonieren mit      | --                                 | Mit wem haben Sie gerade telefonieret?                     |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| sich verabreden mit   | plannen mit jemandem zu treffen    | Ich habe mich morgen um 8 Uhr mit meinem Bruder verabredt. |
+|-----------------------+------------------------------------+------------------------------------------------------------|
+| sich vertragen mit    | mit jemandem tolerieren            | Ich vertrage mich nicht so gut mit meinem Team.            |
+|                       |                                    | Ich habe mich mit ihm vetragen.                            |
