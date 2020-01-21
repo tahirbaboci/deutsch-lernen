@@ -1,7 +1,7 @@
 * mit
 |-----------------------+------------------------------------+------------------------------------------------------------|
 | anfangen mit          | etwas hat etwas als Beginn         | Ich fange um 8 Uhr mit dem Frühstuck an.                   |
-|                       |                                    | Wann hast du mit dem Laufen angefangem?                    |
+|                       |                                    | Wann hast du mit dem Laufen angefangen?                    |
 |-----------------------+------------------------------------+------------------------------------------------------------|
 | aufhören mit          | etwas nicht mehr machen/tun        | Du müsst mit dem Rauchen aufhören.                         |
 |-----------------------+------------------------------------+------------------------------------------------------------|
