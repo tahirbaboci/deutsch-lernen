@@ -1,0 +1,17 @@
+[[https://deutschtraining.org/deutsche-grammatik/substantive/nomen-verb-verbindungen/][Hinweis]]
+
+|----+--------------------------+----------------------------+----------|
+|    |                          | Bedeutung                  | Beispeil |
+|----+--------------------------+----------------------------+----------|
+|  1 | sich in Acht nehmen vor  | aufpassen, vorsichtig sein |          |
+|  2 | Abschied nehmen von      | sich verabschieden         |          |
+|  3 | die Absicht haben        | beabsichtigen              |          |
+|  4 | eine Anderung vornehmen  | ändern                     |          |
+|  5 | Anerkennung finden       | anerkannt werden           |          |
+|  6 | eine Angebot machen      | etwas anbieten             |          |
+|  7 | jmd. Angst machen        | sich ängstigen vor         |          |
+|  8 | in Anspruch nehmen       | benutzen, beanspruchen     |          |
+|  9 | Anteil nehmen            | mitfühlen                  |          |
+| 10 | einen Antrag stellen auf | beantragen                 |          |
+|----+--------------------------+----------------------------+----------|
+#+TBLFM: $1=@#-1

@@ -1,4 +1,6 @@
 * Sections
 - [[grammatik.org][Grammatik]]
-- [[verben.org][Verben]]
+- [[verben.org][Verben Allgemein]]
 - [[wortschatz.org][Wortschatz]]
+- [[verben-mit-nomen.org][Verben mit Nomen]]
+- [[verben-mit-praepositionen.org][Verben mit Praepositionen]]

@@ -29,48 +29,49 @@
 |-----------------------+------------------------------------+------------------------------------------------------------|
 
 * auf
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| Verb                          | Meinung                                 | Beispiel                                                               |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| achten auf                    | jemanden/etwas mit interesse wahrnehmen | /Achte/ bei der Prufung genau _auf_ die Aufgabenstellung.              |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| ankommen auf (akk)            | es hängt von jemandem/etwas ab          | Es /kommt/ _auf_ die Bezahlung /an/, ob ich die Arbeitstell            |
-|                               |                                         | annehme.                                                               |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| antworten auf (akk)           | --                                      | Hast die Firma _auf_ die Bewerbung /geantwortet/?                      |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| aufpassen auf (akk)           | jemanden/etwas beobachten sodass nichts | Kannst du heute Abend _auf_ meine Kinder /aufpassen/?                  |
-|                               | Unerwünschtes passiert                  |                                                                        |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| sich bewerben auf/um (akk)    | -                                       | Er hat /sich/ _auf_ die Stelle als Projektleiter /beworben/.           |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| sich beziehen auf (akk)       | etwas hängt mit etwas                   | Dein Beispiel /bezieht sich/ nicht _auf_ dein Argument.                |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| eingehen auf (akk)            | etwas akzeptieren                       | John /geht/ nicht _auf_ die Annes Vorschlag /ein/.                     |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| sich freuen auf (akk)         | jemandes Ankunft, Besuch oder eine      | Ich /freue mich/ _auf_ meine Wandergung ins Berchtsgaden.              |
-|                               | bestimmte Ereigenis mit Spannend und    |                                                                        |
-|                               | Freude erwarten                         |                                                                        |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| hinweisen auf (akk)           | jemanden auf eine bestimmte Tatsache    | Ich möchte Sie _darauf_ /hinweisen/, dass das Fahrradabstellen hier    |
-|                               | aufmerksam machen                       | verbot ist.                                                            |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| hoffen auf (akk)              | -                                       | Wir haben lange _auf_ besseres Wetter /gehofft/.                       |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| sich konzentrieren auf (akk)  | -                                       | Ich muss /mich/ _auf_ die Training /konzentrieren/.                    |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| reagieren auf (akk)           | -                                       | Wie hat die Künden _auf_ den Angebot /reagiert/?                       |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| sich spezialisieren auf (akk) | -                                       | Während meine Arbeit habe ich /mich/ auf die Cloud-Native-Technologien |
-|                               |                                         | spezialiert.                                                           |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| sich verlassen auf (dat)      | jemandem / etwas vertrauen              | Ich /verlasse mich/ immer _auf_ meiner Frau.                           |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| verzichten auf (akk)          | etwas freiwillig nicht mehr benutzen,   | Seit Jahren haben ich _auf_ Kaffe /verzichtet/.                        |
-|                               | nehmen oder tun                         |                                                                        |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| sich vorbreiten auf (akk)     | -                                       | Ich /vorbreite mich/ _auf_ die Prüfung.                                |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| warten auf (akk)              | -                                       | Ich /warte/ _auf_ den Bus.                                             |
-|-------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| Verb                           | Meinung                                 | Beispiel                                                               |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| achten auf                     | jemanden/etwas mit interesse wahrnehmen | /Achte/ bei der Prufung genau _auf_ die Aufgabenstellung.              |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| ankommen auf (akk)             | es hängt von jemandem/etwas ab          | Es /kommt/ _auf_ die Bezahlung /an/, ob ich die Arbeitstell            |
+|                                |                                         | annehme.                                                               |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| antworten auf (akk)            | --                                      | Hast die Firma _auf_ die Bewerbung /geantwortet/?                      |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| aufpassen auf (akk)            | jemanden/etwas beobachten sodass nichts | Kannst du heute Abend _auf_ meine Kinder /aufpassen/?                  |
+|                                | Unerwünschtes passiert                  |                                                                        |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| sich bewerben auf/um (akk)     | -                                       | Er hat /sich/ _auf_ die Stelle als Projektleiter /beworben/.           |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| sich beziehen auf (akk)        | etwas hängt mit etwas                   | Dein Beispiel /bezieht sich/ nicht _auf_ dein Argument.                |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| eingehen auf (akk)             | etwas akzeptieren                       | John /geht/ nicht _auf_ die Annes Vorschlag /ein/.                     |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| sich freuen auf (akk)          | jemandes Ankunft, Besuch oder eine      | Ich /freue mich/ _auf_ meine Wandergung ins Berchtsgaden.              |
+|                                | bestimmte Ereigenis mit Spannend und    |                                                                        |
+|                                | Freude erwarten                         |                                                                        |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| hinweisen auf (akk)            | jemanden auf eine bestimmte Tatsache    | Ich möchte Sie _darauf_ /hinweisen/, dass das Fahrradabstellen hier    |
+|                                | aufmerksam machen                       | verbot ist.                                                            |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| hoffen auf (akk)               | -                                       | Wir haben lange _auf_ besseres Wetter /gehofft/.                       |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| sich konzentrieren auf (akk)   | -                                       | Ich muss /mich/ _auf_ die Training /konzentrieren/.                    |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| reagieren auf (akk)            | -                                       | Wie hat die Künden _auf_ den Angebot /reagiert/?                       |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| sich spezialisieren auf (akk)  | -                                       | Während meine Arbeit habe ich /mich/ auf die Cloud-Native-Technologien |
+|                                |                                         | spezialiert.                                                           |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| sich verlassen auf (dat)       | jemandem / etwas vertrauen              | Ich /verlasse mich/ immer _auf_ meiner Frau.                           |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| verzichten auf (akk)           | etwas freiwillig nicht mehr benutzen,   | Seit Jahren haben ich _auf_ Kaffe /verzichtet/.                        |
+|                                | nehmen oder tun                         |                                                                        |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| sich vorbreiten auf (akk)      | -                                       | Ich /vorbreite mich/ _auf_ die Prüfung.                                |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| warten auf (akk)               | -                                       | Ich /warte/ _auf_ den Bus.                                             |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
+| etwas _auf_ den Kopf _stellen_ | etwas komplett ändern                   | Die neue Entdeckung stellt die Prinzipell auf den Kopf.                |
 
