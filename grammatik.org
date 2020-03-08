@@ -14,31 +14,31 @@
 - [[#final-satz][Final Satz]]
 - [[#relatives%C3%A4tze][Relativesätze]]
 * Artikel mit Adjektiv
-|-----------+------------+---------------------+--------------------+---------------------|
-|           |            | Maskulin            | Feminin            | Neutrum             |
-|-----------+------------+---------------------+--------------------+---------------------|
-|           |            | der Mann            | die Frau           | das Kind            |
-|-----------+------------+---------------------+--------------------+---------------------|
-| Nominativ |            |                     |                    |                     |
-|           | bestimmt   | der schöne Mann     | die schöne Frau    | das schöne Kind     |
-|           | unbestimmt | ein schöner Mann    | eine schöne Frau   | ein schönes Kind    |
-|           | Plural     | die schönen Männer  | die schönen Frauen | die schönen Kinder  |
-|-----------+------------+---------------------+--------------------+---------------------|
-| Dativ     |            |                     |                    |                     |
-|           | bestimmt   | dem schönen Mann    | der schönen Frau   | dem schönen Kind    |
-|           | unbestimmt | einem schönen Mann  | einer schönen Frau | einem schönen Kind  |
-|           | Plural     | den schönen Männern | den schönen Frauen | den schönen Kindern |
-|-----------+------------+---------------------+--------------------+---------------------|
-| Akkusativ |            |                     |                    |                     |
-|           | bestimmt   | den schönen Mann    | die schöne Frau    | das schöne Kind     |
-|           | unbestimmt | einen schönen Mann  | eine schöne Frau   | ein schönes Kind    |
-|           | Plural     | die schönen Männer  | die schönen Frauen | die schönen Kinder  |
-|-----------+------------+---------------------+--------------------+---------------------|
-| Genitiv   |            |                     |                    |                     |
-|           | bestimmt   |                     |                    |                     |
-|           | unbestimmt |                     |                    |                     |
-|           | Plural     |                     |                    |                     |
-|-----------+------------+---------------------+--------------------+---------------------|
+|-----------+------------+----------------------+--------------------+----------------------|
+|           |            | Maskulin             | Feminin            | Neutrum              |
+|-----------+------------+----------------------+--------------------+----------------------|
+|           |            | der Mann             | die Frau           | das Kind             |
+|-----------+------------+----------------------+--------------------+----------------------|
+| Nominativ |            |                      |                    |                      |
+|           | bestimmt   | der schöne Mann      | die schöne Frau    | das schöne Kind      |
+|           | unbestimmt | ein schöner Mann     | eine schöne Frau   | ein schönes Kind     |
+|           | Plural     | die schönen Männer   | die schönen Frauen | die schönen Kinder   |
+|-----------+------------+----------------------+--------------------+----------------------|
+| Dativ     |            |                      |                    |                      |
+|           | bestimmt   | dem schönen Mann     | der schönen Frau   | dem schönen Kind     |
+|           | unbestimmt | einem schönen Mann   | einer schönen Frau | einem schönen Kind   |
+|           | Plural     | den schönen Männern  | den schönen Frauen | den schönen Kindern  |
+|-----------+------------+----------------------+--------------------+----------------------|
+| Akkusativ |            |                      |                    |                      |
+|           | bestimmt   | den schönen Mann     | die schöne Frau    | das schöne Kind      |
+|           | unbestimmt | einen schönen Mann   | eine schöne Frau   | ein schönes Kind     |
+|           | Plural     | die schönen Männer   | die schönen Frauen | die schönen Kinder   |
+|-----------+------------+----------------------+--------------------+----------------------|
+| Genitiv   |            |                      |                    |                      |
+|           | bestimmt   | des schönen Mannes   | der schönen Frau   | des schönen Kindes   |
+|           | unbestimmt | eines schönen Mannes | einer schönen Frau | eines schönen Kindes |
+|           | Plural     | der schönen Männer   | der schönen Frauen | der schönen Kinder   |
+|-----------+------------+----------------------+--------------------+----------------------|
 * Satz Struktur
 |----------+--------------+----------+----------+---------+---------------+-------+-------+-------+---------------|
 | *Subjekt | Verb 1       |          | TE       | KA      | MO            |       | LO    |       | V2*           |
@@ -97,7 +97,6 @@
 -  *mich, mir, dich, dir, sich, uns, euch und sich*.
 - Sie werden mit reflexiven und reziproken Verben benutzt.
 - Sie beziehen sich immer auf das Subjekt.
-
 ** Prapositional Pronomen *nur for Sache (things)*
 |---------------------+-------+---------+---------+--------------------------------|
 | Adv + Prapositionen |       |         |         |                                |
@@ -113,16 +112,15 @@
 |-----------+-----------+---------+---------+---------+-----------------------------------------------------|
 |           | *Maskulin | Feminin | Neutrum | Plural* |                                                     |
 |-----------+-----------+---------+---------+---------+-----------------------------------------------------|
-| Genitiv   | dessen    | deren   | dessen  | deren   | Die Frau, deren Mann Pilot ist, heißt Ingrid        |
-|-----------+-----------+---------+---------+---------+-----------------------------------------------------|
 | Nominativ | der       | die     | das     | die     | Der Mann, der dort steht, ist mein Vater            |
 |-----------+-----------+---------+---------+---------+-----------------------------------------------------|
-| Dativ     | dem       | der     | dem     | denen   | Das Haus, vom dem ich träume, hat ein Schwimmbecken |
+| Genitiv   | dessen    | deren   | dessen  | deren   | Die Frau, deren Mann Pilot ist, heißt Ingrid        |
+|-----------+-----------+---------+---------+---------+-----------------------------------------------------|
+| Dativ     | dem       | der     | dem     | denen   | Das Haus, von dem ich träume, hat ein Schwimmbecken |
 |           |           |         |         |         | Das sind die Frauen, denen ich vertraue.            |
 |-----------+-----------+---------+---------+---------+-----------------------------------------------------|
 | Akkustaiv | den       | die     | das     | die     | Der Bus, auf den ich Warte, kommt in 10 Minuten     |
 |-----------+-----------+---------+---------+---------+-----------------------------------------------------|
-
 - Die Relativpronomen leiten Relativsätze ein
 - Das genus und der Numerus vom Bezugswort bestimmem
 - Das Verb des Nebensatz bestimmt den Kasus des Relativepronomens
@@ -240,7 +238,7 @@
 |------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
 |                              | Ich rufe an, um das Teamevent zu buchen.  | Iche rufe an, damit die Firma ein Angebot         | Ich rufe an, weil ich das Teamevent buche möchte. |
 |                              |                                           | erstellt                                          |                                                   |
-|                              |                                           |                                                   | Ich rufe zum Buchen de Teamevents an.             |
+|                              |                                           |                                                   | Ich rufe zum Buchen des Teamevents an.            |
 |------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
 | *Einschränkung (restriktiv)  | ohne       + zu + Infinitiv               | ohne dass*                                        |                                                   |
 |------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
