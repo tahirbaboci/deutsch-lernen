@@ -7,7 +7,7 @@
 - [[#konjunktiv-ii][Konjunktiv II]]
 - [[#konjunktiv-i][Konjunktiv I]]
 - [[#negation][Negation]]
-- [[#comapartiv][Comapartiv]]
+- [[#compartiv][Compartiv]]
 - [[#konnektoren][Konnektoren]]
 - [[#das-wort-es][Das Wort Es]]
 - [[#redepartikel][Redepartikel]]
@@ -43,6 +43,9 @@
 |           | Plural     | der schönen Männer   | der schönen Frauen | der schönen Kinder   |
 |-----------+------------+----------------------+--------------------+----------------------|
 * Satz Struktur
+:PROPERTIES:
+:CUSTOM_ID: satz-struktur
+:END:
 |----------+--------------+----------+----------+---------+---------------+-------+-------+-------+---------------|
 | *Subjekt | Verb 1       |          | TE       | KA      | MO            |       | LO    |       | V2*           |
 |----------+--------------+----------+----------+---------+---------------+-------+-------+-------+---------------|
@@ -62,6 +65,9 @@
 |                     |                     | Ich schenke _ihm_ /einen Knochen/.      |
 |---------------------+---------------------+-----------------------------------------|
 * Prapositionen
+:PROPERTIES:
+:CUSTOM_ID: prapositionen
+:END:
 - *sagen welche Kasous bestimmen*
 |-------------------+------+----------|
 | *immer akkustaiv* |      |          |
@@ -96,6 +102,9 @@
 |                   |      | unter    |
 |-------------------+------+----------|
 * Pronomen
+:PROPERTIES:
+:CUSTOM_ID: pronomen
+:END:
 ** Reflexiv Pronomen 
 -  *mich, mir, dich, dir, sich, uns, euch und sich*.
 - Sie werden mit reflexiven und reziproken Verben benutzt.
@@ -129,6 +138,9 @@
 - Das Verb des Nebensatz bestimmt den Kasus des Relativepronomens
 - oder, wenn vorhanden die Praposition
 * Modal verben
+:PROPERTIES:
+:CUSTOM_ID: modal-verben
+:END:
 |---------+---------------|
 | müssen  | Notwendigkeit |
 | wollen  |               |
@@ -138,6 +150,9 @@
 | können  |               |
 |---------+---------------|
 * Konjunktiv II
+:PROPERTIES:
+:CUSTOM_ID: konjunktiv-ii
+:END:
 |--------+------------------+---------------------------+-------------------------------|
 | gehört |                  |                           |                               |
 |--------+------------------+---------------------------+-------------------------------|
@@ -159,7 +174,13 @@
 |        |                  |                           | Ich wäre in den Park gegangen |
 |--------+------------------+---------------------------+-------------------------------|
 * Konjunktiv I
+:PROPERTIES:
+:CUSTOM_ID: konjunktiv-i
+:END:
 * Negation
+:PROPERTIES:
+:CUSTOM_ID: negation
+:END:
 ** benutzen Wort
 |-----------------------+------------------|
 | nichts                | alles/etwas      |
@@ -206,7 +227,10 @@
 | vor einer Praposition oder einer Praposition ergänzung | Du kannst das Auto nicht an diese Straße fahren |
 | vor lokalen Angaben                                    | Das Buch ist nicht hier.                        |
 |--------------------------------------------------------+-------------------------------------------------|
-* Comapartiv
+* Compartiv
+:PROPERTIES:
+:CUSTOM_ID: comparativ
+:END:
 |---------------+----------------------------+---------------------------------------------|
 | Gleichheit    | so/genauso + Positiv + wie | Ich bin so groß wie du                      |
 |               |                            | Das is genauso schwer wie gedacht.          |
@@ -217,6 +241,9 @@
 |               | anders als                 | Ich habe das anders verstanden als gemeint. |
 |               | etwas/nichts anders als    | Die Rede was nichts anders als inhaltlos.   |
 * Konnektoren
+:PROPERTIES:
+:CUSTOM_ID: konnektoren
+:END:
 - *Satz verbinden*
 |-----------------|
 | HS + NS         |
@@ -258,6 +285,9 @@
 |------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
 
 * Das Wort Es
+:PROPERTIES:
+:CUSTOM_ID: das-wort-es
+:END:
 ** es als Subjekt oder Objeky. /Wenn _es_ Objekt ist, steht _es_ niemals auf Position 1/
 |---------------------------------+--------------------------------------------+------------|
 |                                 | als Subjekt                                | als Objekt |
@@ -291,6 +321,9 @@
 | Ein nichtsagendes Gespräch zu beginnen, | lehnen | viele | ab. |                                         |
 |-----------------------------------------+--------+-------+-----+-----------------------------------------|
 * Redepartikel
+:PROPERTIES:
+:CUSTOM_ID: redepartikel
+:END:
 |---------------+-------------------------------+----------------------------------------------------------|
 | *Redepartikel | Bedeutung                     | Beispiel*                                                |
 |---------------+-------------------------------+----------------------------------------------------------|
@@ -325,7 +358,13 @@
 | erschreckt    | -ve Überraschung              |                                                          |
 |---------------+-------------------------------+----------------------------------------------------------|
 * Final Satz
+:PROPERTIES:
+:CUSTOM_ID: final-satz
+:END:
 * Relativesätze
+:PROPERTIES:
+:CUSTOM_ID: relatives%C3%A4tze
+:END:
 - Genus und Pronomen --> Bezugswort
 - Kasus --> Verb im Relativesatz oder Präposition
 ** unbestimmte Pronommen
