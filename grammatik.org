@@ -1,5 +1,5 @@
 * Table of Contents
-- [[#artikel-mit-adjektiv1][Artikel mit Adjektiv]]
+- [[#artikel-mit-adjektiv][Artikel mit Adjektiv]]
 - [[#satz-struktur][Satz Struktur]]
 - [[#prapositionen][Prapositionen]]
 - [[#pronomen][Pronomen]]
@@ -15,7 +15,7 @@
 - [[#relatives%C3%A4tze][Relativesätze]]
 * Artikel mit Adjektiv
 :PROPERTIES:
-:CUSTOM_ID: artikel-mit-adjektiv1
+:CUSTOM_ID: artikel-mit-adjektiv
 :END:
 |-----------+------------+----------------------+--------------------+----------------------|
 |           |            | Maskulin             | Feminin            | Neutrum              |
