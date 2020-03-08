@@ -13,6 +13,8 @@
 - [[#redepartikel][Redepartikel]]
 - [[#final-satz][Final Satz]]
 - [[#relatives%C3%A4tze][Relativesätze]]
+- [[#passiv][Passiv]]
+- [[#passiversatzformen][Passiversatzformen]]
 * Artikel mit Adjektiv
 :PROPERTIES:
 :CUSTOM_ID: artikel-mit-adjektiv
@@ -160,9 +162,7 @@
 |        | wünsch           |                           |                               |
 |        | der Vorschlag    |                           |                               |
 |--------+------------------+---------------------------+-------------------------------|
-| Regal  | Gegenwart        |                           |                               |
-|        |                  | würde + Inf               |                               |
-|        |                  |                           |                               |
+| Regal  | Gegenwart        | würde + Inf               |                               |
 |--------+------------------+---------------------------+-------------------------------|
 |        | Ausnahmen        | Hilfsverb                 | ich hätte/ich wäre            |
 |        |                  | Modalverb                 | ich müsste/ich könnte         |
@@ -378,3 +378,32 @@
 |-----------+------------+--------------------------------------------------------|
 - Wenn beide Pronomen hat gleiche Kasus, braucht man nich DominativPronomen
   - z.b. /Wem der Trainier hilft, (dem) schenkt er viel Zeit./
+* Passiv
+:PROPERTIES:
+:CUSTOM_ID: passiv
+:END:
+- Aktion ist wichtig
+|-----------------+--------------------------------------------------------+--------------------------------|
+| Präsens         | werden + Partizip II                                   | Die Suppe wird gekocht.        |
+|-----------------+--------------------------------------------------------+--------------------------------|
+| Präteritum      | wurden + Partizip II                                   | Die Suppe wurde gekocht.       |
+|-----------------+--------------------------------------------------------+--------------------------------|
+| Perfekt         | sein + Partizip II + worden                            | Die Suppe ist gekocht worden.  |
+|-----------------+--------------------------------------------------------+--------------------------------|
+| Plusquamperfekt | waren + Partizip II + worden                           | Die Suppe war gekocht worden.  |
+|-----------------+--------------------------------------------------------+--------------------------------|
+| mit Modalverb   | Modalverb im Präsens/Präteritum + Partizip II + werden | Die Suppe soll gekocht werden. |
+|-----------------+--------------------------------------------------------+--------------------------------|
+* Passiversatzformen
+:PROPERTIES:
+:CUSTOM_ID: passiversatzformen
+:END:
+- Die Suppe kann von dem Chef gekocht werden
+|---------------------------------------------------------------------------+-------------------------------------------|
+| Passiv mit müssen/können/sollen --> sein + zu + Infinitiv                 | Die Suppe ist von dem Chef zu kochen.     |
+|---------------------------------------------------------------------------+-------------------------------------------|
+| Passiv mit können               --> sich lassen + Infinitiv               | Die Suppe lässt sich von dem Chef kochen. |
+|---------------------------------------------------------------------------+-------------------------------------------|
+| Passiv mit können               --> sein + Adjektiv mit Endung -bar/-lich | Die Suppe ist von dem Chek kochbar.       |
+|---------------------------------------------------------------------------+-------------------------------------------|
+
