@@ -426,6 +426,7 @@
 Bei der konzessiven Satzverbindung werden zwei Sätze verbunden, bei dennen der zweite Satz die unerwartete Folge einer Handlung beschreibt.
 |---------------------------------+----------------------------------------------------------------------------+-------------------------------------------------|
 | *obwohl*, *obgleich*, *obschon* | Er ist nicht zu meiner Party gekommen, _obwohl_ ich ihm eingeladen habe.   | HS (unerwartete Folge) + *obwhol* NS (Aktion)   |
+|---------------------------------+----------------------------------------------------------------------------+-------------------------------------------------|
 |                                 | _Obwohl_ ich ihm eingeladen habe, er ist nicht zu meiner Party gekommen    |                                                 |
 |---------------------------------+----------------------------------------------------------------------------+-------------------------------------------------|
 | *trotzdem*                      | Ich habe ihm eingeladen, _trotzdem_ ist er nicht zu meiner Party gekommen. | HS (Aktion) + *trotzdem* HS (unerwartete Folge) |
