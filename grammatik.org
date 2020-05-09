@@ -574,3 +574,4 @@ Bei der konzessiven Satzverbindung werden zwei Sätze verbunden, bei dennen der 
 | *aber*                          | Ich habe ihm eingeladen, _aber_ er ist nicht gekommen                      | HS (Aktion) + *aber* HS (unerwartete Folge)     |
 |---------------------------------+----------------------------------------------------------------------------+-------------------------------------------------|
 | *trotz + Genitiv*               | _Trotz_ _meiner Einladung_ ist er nicht gekommen.                          |                                                 |
+|---------------------------------+----------------------------------------------------------------------------+-------------------------------------------------|
