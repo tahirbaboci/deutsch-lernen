@@ -2,6 +2,7 @@
 - [[#Bescheid][Bescheid]]
 - [[#Scheinen][Scheinen]]
 - [[#meinung-auessern][Meinung aüßern]]
+- [[#je-nachdem][Je nachdem]]
 * Bescheid
 :PROPERTIES:
 :CUSTOM_ID: Bescheid
@@ -110,4 +111,19 @@
 |--------------------------+------------------------------------------------------------------------------|
 |                          | Das ist Ansichtssache.                                                       |
 |--------------------------+------------------------------------------------------------------------------|
-
+* je nachdem
+:PROPERTIES:
+:CUSTOM_ID: je-nachdem
+:END:
+- Konditionale Verbindungen in Sätzen
+- einer der Sätz stellt eine Bedingung dar.
+- anderer Staz bescheibt Folge dieser Bedingung.
+- *Beispiele*
+  1.
+     - Wenn das Wetter gut ist, mache ich einen Ausflug
+     - Wenn das wetter schlecht ist, bleibe ich zu Hause.
+     - /Je nachdem, ob das Wetter gut oder schlecht ist, mache ich einen Ausflug oder bleibe zu Hause./
+  2. /Je nachdem wie das Wetter ist, mache ich einen Ausflug oder bleibe zu Hause./
+  3. /Je nachdem wie das Wetter wird, mache ich einen Ausflug./ *Verkürzt*
+  4. /Je nachdem ob die Tickets günstig sind, werde ich sie kaufen/
+  5. /Je nachdem wie mein Tag morgen aussieht, können wir uns treffen oder müssen das Treffen auf Freitag vershieben./
