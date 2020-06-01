@@ -1,11 +1,11 @@
 * Inhaltverzeichnis
-- [[#dativ-und-akkusativ-verben][Dativ und Akkustativ Verben]]
+- [[#dativ-und-akkusativ-verben][Dativ und Akkusativ Verben]]
 - [[#hauefigebenutzte-verben][Haüfigbenutzte verben]]
 - [[#verben-unterschiedlichen-verwendungen][Verben mit untershiedlichen Verwendenen]]
 - [[#trennbare-verben][Trennbare Verben]]
 - [[verben-mit-praepositionen.org][Verben mit Präposition]]
 - [[#alternativen-von-einfaecher-verben][Alternativen von einfächern Verben]]
-* Dativ und Akkustativ Verben
+* Dativ und Akkusativ Verben
 :PROPERTIES:
 :CUSTOM_ID: dativ-und-akkusativ-verben
 :END:
@@ -92,12 +92,14 @@
 | Ich mache jetzt eine paar wichtige Telefonate.  | Ich *führe* jetzt ein paar wichtige Telefonate *aus*. |
 |-------------------------------------------------+-------------------------------------------------------|
 
+
 |-------------------------------------------------------+--------------------------------------------------------|
 | im Sinne von eine Tätigkeit ausüben und nicht beenden | beschäftigen, befassen                                 |
 |-------------------------------------------------------+--------------------------------------------------------|
 | Ich habe heute so viele Sachen gemacht.               | Ich habe mich heute mit so viele Sachen *beschäftigt*. |
 |                                                       | Ich habe mich heute mit so viele Sachen *befasst*.     |
 |-------------------------------------------------------+--------------------------------------------------------|
+
 
 |--------------------------------------------+----------------------------------------------------|
 | im Sinne von eine Erfahrung sammeln        | absolviern, abschließen, durchführen               |
@@ -107,11 +109,13 @@
 |                                            | Ich habe letzt Jahr eine Praktium *durchgeführt*.  |
 |--------------------------------------------+----------------------------------------------------|
 
+
 |---------------------------------------------------+-------------------------------------|
 | im Sinne von eine geminsame Aktivität durchführen | unternehmen                         |
 |---------------------------------------------------+-------------------------------------|
 | Was wollen wir heute machen?                      | Was wollen wir heute *unternehmen*? |
 |---------------------------------------------------+-------------------------------------|
+
 
 |----------------------------------+-------------------------------------------------------------------|
 | im Sinne von eine Prüfung machen |                                                                   |
