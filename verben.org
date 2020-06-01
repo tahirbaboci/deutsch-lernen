@@ -38,7 +38,7 @@
 | verlieben in                         | Akkusativ | in            | Ich bein in meine Frau verliebt.           |
 | bedanken sich mit/beit für           | Akkusativ | für           | Ich bedanke mich bei euch für das Geschenk |
 |--------------------------------------+-----------+---------------+--------------------------------------------|
-* Verben mit untershiedlichen Verwendungen
+* Verben mit unterschiedlichen Verwendungen
 :PROPERTIES:
 :CUSTOM_ID: verben-mit-unterschiedlichen-verwendungen
 :END:
