@@ -85,33 +85,29 @@
 :CUSTOM_ID: alternativen-von-einfaecher-verben
 :END:
 ** machen
-|---------------------------------------------------------+----------------------------------------------------------------------|
-| im Sinne von eine Tätigkeit ausüben und beenden         | erledigen, ausführen                                                 |
-|---------------------------------------------------------+----------------------------------------------------------------------|
-| Ich mache meine Hausaufgabe.                            | Ich *erledige* meine Hausaufgabe                                     |
-| Ich mache jetzt eine paar wichtige Telefonate.          | Ich *führe* jetzt ein paar wichtige Telefonate *aus*.                |
-|---------------------------------------------------------+----------------------------------------------------------------------|
-|---------------------------------------------------------+----------------------------------------------------------------------|
-| *im Sinne von eine Tätigkeit ausüben und nicht beenden* | *beschäftigen, befassen*                                             |
-|---------------------------------------------------------+----------------------------------------------------------------------|
-| Ich habe heute so viele Sachen gemacht.                 | Ich habe mich heute mit so viele Sachen *beschäftigt*.               |
-|                                                         | Ich habe mich heute mit so viele Sachen *befasst*.                   |
-|---------------------------------------------------------+----------------------------------------------------------------------|
-|---------------------------------------------------------+----------------------------------------------------------------------|
-| *im Sinne von eine Erfahrung sammeln*                   | *absolviern, abschließen, durchführen*                               |
-|---------------------------------------------------------+----------------------------------------------------------------------|
-| Ich habe letzt Jahr eine Praktium gemacht.              | Ich habe letzt Jahr eine Praktium *absolviert*.                      |
-|                                                         | Ich habe letzt Jahr eine Praktium *abgeschlossen*.                   |
-|                                                         | Ich habe letzt Jahr eine Praktium *durchgeführt*.                    |
-|---------------------------------------------------------+----------------------------------------------------------------------|
-|---------------------------------------------------------+----------------------------------------------------------------------|
-| *im Sinne von eine geminsame Aktivität durchführen*     | *unternehmen*                                                        |
-|---------------------------------------------------------+----------------------------------------------------------------------|
-| Was wollen wir heute machen?                            | Was wollen wir heute *unternehmen*?                                  |
-|---------------------------------------------------------+----------------------------------------------------------------------|
-|---------------------------------------------------------+----------------------------------------------------------------------|
-| *im Sinne von eine Prüfung machen*                      | *ablegen, bestehen*                                                  |
-|---------------------------------------------------------+----------------------------------------------------------------------|
-| Ich werde meine Prüfung machen.                         | Ich werde meine Prüfung *ablegen*. (zukunft)                         |
-|                                                         | Vor zwei Monaten habe ich meine Prüfung *bestanden*. (Vergangenheit) |
-|---------------------------------------------------------+----------------------------------------------------------------------|
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
+| 1 | im Sinne von eine Tätigkeit ausüben und beenden         | erledigen, ausführen                                                 |
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
+|   | Ich mache meine Hausaufgabe.                            | Ich *erledige* meine Hausaufgabe                                     |
+|   | Ich mache jetzt eine paar wichtige Telefonate.          | Ich *führe* jetzt ein paar wichtige Telefonate *aus*.                |
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
+| 2 | *im Sinne von eine Tätigkeit ausüben und nicht beenden* | *beschäftigen, befassen*                                             |
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
+|   | Ich habe heute so viele Sachen gemacht.                 | Ich habe mich heute mit so viele Sachen *beschäftigt*.               |
+|   |                                                         | Ich habe mich heute mit so viele Sachen *befasst*.                   |
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
+| 3 | *im Sinne von eine Erfahrung sammeln*                   | *absolviern, abschließen, durchführen*                               |
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
+|   | Ich habe letzt Jahr eine Praktium gemacht.              | Ich habe letzt Jahr eine Praktium *absolviert*.                      |
+|   |                                                         | Ich habe letzt Jahr eine Praktium *abgeschlossen*.                   |
+|   |                                                         | Ich habe letzt Jahr eine Praktium *durchgeführt*.                    |
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
+| 4 | *im Sinne von eine geminsame Aktivität durchführen*     | *unternehmen*                                                        |
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
+|   | Was wollen wir heute machen?                            | Was wollen wir heute *unternehmen*?                                  |
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
+| 5 | *im Sinne von eine Prüfung machen*                      | *ablegen, bestehen*                                                  |
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
+|   | Ich werde meine Prüfung machen.                         | Ich werde meine Prüfung *ablegen*. (zukunft)                         |
+|   |                                                         | Vor zwei Monaten habe ich meine Prüfung *bestanden*. (Vergangenheit) |
+|---+---------------------------------------------------------+----------------------------------------------------------------------|
