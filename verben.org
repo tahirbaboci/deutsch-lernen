@@ -1,13 +1,14 @@
-* Table of Contents
-- [[#dativ-und-akkustativ-verben][Dativ und Akkustativ Verben]]
-- [[#ha%C3%BCfigbenutzte-verben][Haüfigbenutzte verben]]
-- [[#verben-mit-untershiedlichen-verwendenen][Verben mit untershiedlichen Verwendenen]]
+* Inhaltverzeichnis
+- [[#dativ-und-akkusativ-verben][Dativ und Akkustativ Verben]]
+- [[#hauefigebenutzte-verben][Haüfigbenutzte verben]]
+- [[#verben-unterschiedlichen-verwendungen][Verben mit untershiedlichen Verwendenen]]
 - [[#trennbare-verben][Trennbare Verben]]
 - [[verben-mit-praepositionen.org][Verben mit Präposition]]
-- [[#nomen-mit-festen-pr%C3%A4position][Nomen mit festen Präposition]]
-- [[#adjektive-mit-festen-pr%C3%A4position][Adjektive mit festen Präposition]]
-- [[#alternativen-von-einfaechern-verben][Alternativen von einfächern Verben]]
+- [[#alternativen-von-einfaecher-verben][Alternativen von einfächern Verben]]
 * Dativ und Akkustativ Verben
+:PROPERTIES:
+:CUSTOM_ID: dativ-und-akkusativ-verben
+:END:
 |--------------+----------+-----------------------------|
 | Dat          | Akk      | Beispiel                    |
 |--------------+----------+-----------------------------|
@@ -20,6 +21,9 @@
 |              |          | Ich ziehe mir den Mantel an |
 
 * Haüfigbenutzte verben
+:PROPERTIES:
+:CUSTOM_ID: hauefigebenutzte-verben
+:END:
 |--------------------------------------+-----------+---------------+--------------------------------------------|
 | Verb                                 | Kasus     | Prapositionen | Beispeil                                   |
 |--------------------------------------+-----------+---------------+--------------------------------------------|
@@ -35,6 +39,9 @@
 | bedanken sich mit/beit für           | Akkusativ | für           | Ich bedanke mich bei euch für das Geschenk |
 |--------------------------------------+-----------+---------------+--------------------------------------------|
 * Verben mit untershiedlichen Verwendenen
+:PROPERTIES:
+:CUSTOM_ID: verben-unterschiedlichen-verwendungen
+:END:
 |---------------+------------------------------+---------------------------------------------------+------------------------------------------|
 | *Verb         | Verwenden                    | Grund/Bedeutung*                                  | Beispiel                                 |
 |---------------+------------------------------+---------------------------------------------------+------------------------------------------|
@@ -61,6 +68,9 @@
 |---------------+------------------------------+---------------------------------------------------+------------------------------------------|
 
 * Trennbare Verben
+:PROPERTIES:
+:CUSTOM_ID: trennbare-verben
+:END:
 |---------------------------------+--------------------------------------+-------------------------|
 | *Praposition Prefix*            | aus, an, um, in, ein                 |                         |
 |---------------------------------+--------------------------------------+-------------------------|
@@ -70,86 +80,42 @@
 |                                 |                                      | Er umfährt das Schild.  |
 
 - Wenn das Prefix eine eigene Bedeutung hat.
-* Nomen mit festen Präposition
-|-----------+--------------------+----------|
-|           | Bedeutung          | Beispeil |
-|-----------+--------------------+----------|
-|           | Erinnerung an      |          |
-|           | Bitte um           |          |
-|           | Antwort auf        |          |
-| Akkusativ | Lust auf           |          |
-|           | Ärger über         |          |
-|           | Freude auf/an/über |          |
-|           | Aufregung über     |          |
-|           | Entschulding für   |          |
-|-----------+--------------------+----------|
-| Dativ     | Angst von          |          |
-|           | Abhänkigkeit von   |          |
-|           | Bleibtheit bei     |          |
-|           | Liebe zu           |          |
-|           | Zufriedenheit mit  |          |
-|           | Beschäftigung mit  |          |
-|-----------+--------------------+----------|
-* Adjektive mit festen Präposition
-|-----------+------------------+----------|
-|           | Bedeutung        | Beispeil |
-|-----------+------------------+----------|
-|           | stolz auf        |          |
-|           | ungeeignet für   |          |
-|           | gewöhnt an       |          |
-| Akkusativ | verliebt in      |          |
-|           | erstaunt über    |          |
-|           | eifersüchtig auf |          |
-|-----------+------------------+----------|
-| Dativ     | vertraut mit     |          |
-|           | überzeugt von    |          |
-|           | unzufrieden mit  |          |
-|           | bereit zu        |          |
-|           | beliebt bei      |          |
-|           | enttäuscht von   |          |
-|           | nett zu          |          |
-|-----------+------------------+----------|
-* Alternativen von einfächern Verben
+* Alternativen von einfächer Verben
 :PROPERTIES:
-:CUSTOM_ID: alternativen-von-einfaechern-verben
+:CUSTOM_ID: alternativen-von-einfaecher-verben
 :END:
 ** machen
-- *im Sinne von eine Tätigkeit ausüben und beenden*
-|------------------------------------------------+-------------------------------------------------------|
-|                                                | erledigen, ausführen                                  |
-|------------------------------------------------+-------------------------------------------------------|
-| Ich mache meine Hausaufgabe.                   | Ich *erledige* meine Hausaufgabe                      |
-| Ich mache jetzt eine paar wichtige Telefonate. | Ich *führe* jetzt ein paar wichtige Telefonate *aus*. |
-|------------------------------------------------+-------------------------------------------------------|
+|-------------------------------------------------+-------------------------------------------------------|
+| im Sinne von eine Tätigkeit ausüben und beenden | erledigen, ausführen                                  |
+|-------------------------------------------------+-------------------------------------------------------|
+| Ich mache meine Hausaufgabe.                    | Ich *erledige* meine Hausaufgabe                      |
+| Ich mache jetzt eine paar wichtige Telefonate.  | Ich *führe* jetzt ein paar wichtige Telefonate *aus*. |
+|-------------------------------------------------+-------------------------------------------------------|
 
-- *im Sinne von eine Tätigkeit ausüben und nicht beenden*
-|-----------------------------------------+--------------------------------------------------------|
-|                                         | beschäftigen, befassen                                 |
-|-----------------------------------------+--------------------------------------------------------|
-| Ich habe heute so viele Sachen gemacht. | Ich habe mich heute mit so viele Sachen *beschäftigt*. |
-|                                         | Ich habe mich heute mit so viele Sachen *befasst*.     |
-|-----------------------------------------+--------------------------------------------------------|
+|-------------------------------------------------------+--------------------------------------------------------|
+| im Sinne von eine Tätigkeit ausüben und nicht beenden | beschäftigen, befassen                                 |
+|-------------------------------------------------------+--------------------------------------------------------|
+| Ich habe heute so viele Sachen gemacht.               | Ich habe mich heute mit so viele Sachen *beschäftigt*. |
+|                                                       | Ich habe mich heute mit so viele Sachen *befasst*.     |
+|-------------------------------------------------------+--------------------------------------------------------|
 
-- *im Sinne von eine Erfahrung sammeln*
 |--------------------------------------------+----------------------------------------------------|
-|                                            | absolviern, abschließen, durchführen               |
+| im Sinne von eine Erfahrung sammeln        | absolviern, abschließen, durchführen               |
 |--------------------------------------------+----------------------------------------------------|
 | Ich habe letzt Jahr eine Praktium gemacht. | Ich habe letzt Jahr eine Praktium *absolviert*.    |
 |                                            | Ich habe letzt Jahr eine Praktium *abgeschlossen*. |
 |                                            | Ich habe letzt Jahr eine Praktium *durchgeführt*.  |
 |--------------------------------------------+----------------------------------------------------|
 
-- *im Sinne von eine geminsame Aktivität durchführen*
-|------------------------------+-------------------------------------|
-|                              | unternehmen                         |
-|------------------------------+-------------------------------------|
-| Was wollen wir heute machen? | Was wollen wir heute *unternehmen*? |
-|------------------------------+-------------------------------------|
+|---------------------------------------------------+-------------------------------------|
+| im Sinne von eine geminsame Aktivität durchführen | unternehmen                         |
+|---------------------------------------------------+-------------------------------------|
+| Was wollen wir heute machen?                      | Was wollen wir heute *unternehmen*? |
+|---------------------------------------------------+-------------------------------------|
 
-- *im Sinne von eine Prüfung machen*
-|---------------------------------+-------------------------------------------------------------------|
-|                                 |                                                                   |
-|---------------------------------+-------------------------------------------------------------------|
-| Ich werde meine Prüfung machen. | Ich werde meine Prüfung ablegen. (zukunft)                        |
-|                                 | Vor zwei Monaten habe ich meine Prüfung bestanden (Vergangenheit) |
-|---------------------------------+-------------------------------------------------------------------|
+|----------------------------------+-------------------------------------------------------------------|
+| im Sinne von eine Prüfung machen |                                                                   |
+|----------------------------------+-------------------------------------------------------------------|
+| Ich werde meine Prüfung machen.  | Ich werde meine Prüfung ablegen. (zukunft)                        |
+|                                  | Vor zwei Monaten habe ich meine Prüfung bestanden (Vergangenheit) |
+|----------------------------------+-------------------------------------------------------------------|

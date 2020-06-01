@@ -1,10 +1,50 @@
-|---+------------------+---------------+------------|
-|   | *Wort            | Meinung       | Gegenteil* |
-|---+------------------+---------------+------------|
-| 1 | Erwiderung       | Protest       | Zustimmung |
-| 2 | Atemzug          | geleichzeitig |            |
-|---+------------------+---------------+------------|
-| 3 | entäuscht sein   | disappointed  |            |
-| 4 | die Enttäuschung |               |            |
-|---+------------------+---------------+------------|
-#+TBLFM: $1=@#-1
+* Nomen mit festen Präposition
+|-----------+--------------------+----------|
+|           | Bedeutung          | Beispeil |
+|-----------+--------------------+----------|
+|           | Erinnerung an      |          |
+|           | Bitte um           |          |
+|           | Antwort auf        |          |
+| Akkusativ | Lust auf           |          |
+|           | Ärger über         |          |
+|           | Freude auf/an/über |          |
+|           | Aufregung über     |          |
+|           | Entschulding für   |          |
+|-----------+--------------------+----------|
+| Dativ     | Angst von          |          |
+|           | Abhänkigkeit von   |          |
+|           | Bleibtheit bei     |          |
+|           | Liebe zu           |          |
+|           | Zufriedenheit mit  |          |
+|           | Beschäftigung mit  |          |
+|-----------+--------------------+----------|
+
+* Allgemeine Wortschatz
+|------------------+---------------+------------|
+| *Wort            | Meinung       | Gegenteil* |
+|------------------+---------------+------------|
+| Erwiderung       | Protest       | Zustimmung |
+| Atemzug          | geleichzeitig |            |
+|------------------+---------------+------------|
+| entäuscht sein   | disappointed  |            |
+| die Enttäuschung |               |            |
+|------------------+---------------+------------|
+* Adjektive mit festen Präposition
+|-----------+------------------+----------|
+|           | Bedeutung        | Beispeil |
+|-----------+------------------+----------|
+|           | stolz auf        |          |
+|           | ungeeignet für   |          |
+|           | gewöhnt an       |          |
+| Akkusativ | verliebt in      |          |
+|           | erstaunt über    |          |
+|           | eifersüchtig auf |          |
+|-----------+------------------+----------|
+| Dativ     | vertraut mit     |          |
+|           | überzeugt von    |          |
+|           | unzufrieden mit  |          |
+|           | bereit zu        |          |
+|           | beliebt bei      |          |
+|           | enttäuscht von   |          |
+|           | nett zu          |          |
+|-----------+------------------+----------|
