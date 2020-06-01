@@ -1,7 +1,7 @@
 * Inhaltverzeichnis
 - [[#dativ-und-akkusativ-verben][Dativ und Akkusativ Verben]]
 - [[#hauefigebenutzte-verben][Haüfigbenutzte verben]]
-- [[#verben-unterschiedlichen-verwendungen][Verben mit untershiedlichen Verwendenen]]
+- [[#verben-mit-unterschiedlichen-verwendungen][Verben mit untershiedlichen Verwendenen]]
 - [[#trennbare-verben][Trennbare Verben]]
 - [[verben-mit-praepositionen.org][Verben mit Präposition]]
 - [[#alternativen-von-einfaecher-verben][Alternativen von einfächern Verben]]
@@ -20,7 +20,7 @@
 | anziehen     | anziehen | Ich ziehe mich an           |
 |              |          | Ich ziehe mir den Mantel an |
 
-* Haüfigbenutzte verben
+* Hauefigbenutzte verben
 :PROPERTIES:
 :CUSTOM_ID: hauefigebenutzte-verben
 :END:
@@ -40,7 +40,7 @@
 |--------------------------------------+-----------+---------------+--------------------------------------------|
 * Verben mit untershiedlichen Verwendenen
 :PROPERTIES:
-:CUSTOM_ID: verben-unterschiedlichen-verwendungen
+:CUSTOM_ID: verben-mit-unterschiedlichen-verwendungen
 :END:
 |---------------+------------------------------+---------------------------------------------------+------------------------------------------|
 | *Verb         | Verwenden                    | Grund/Bedeutung*                                  | Beispiel                                 |
@@ -80,7 +80,7 @@
 |                                 |                                      | Er umfährt das Schild.  |
 
 - Wenn das Prefix eine eigene Bedeutung hat.
-* Alternativen von einfächer Verben
+* Alternativen von einfaecher Verben
 :PROPERTIES:
 :CUSTOM_ID: alternativen-von-einfaecher-verben
 :END:
