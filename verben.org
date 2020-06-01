@@ -1,6 +1,6 @@
 * Inhaltverzeichnis
 - [[#dativ-und-akkusativ-verben][Dativ und Akkusativ Verben]]
-- [[#hauefigebenutzte-verben][Haüfigbenutzte verben]]
+- [[#hauefigbenutzte-verben][Haüfigbenutzte verben]]
 - [[#verben-mit-unterschiedlichen-verwendungen][Verben mit untershiedlichen Verwendenen]]
 - [[#trennbare-verben][Trennbare Verben]]
 - [[verben-mit-praepositionen.org][Verben mit Präposition]]
@@ -22,7 +22,7 @@
 
 * Hauefigbenutzte verben
 :PROPERTIES:
-:CUSTOM_ID: hauefigebenutzte-verben
+:CUSTOM_ID: hauefigbenutzte-verben
 :END:
 |--------------------------------------+-----------+---------------+--------------------------------------------|
 | Verb                                 | Kasus     | Prapositionen | Beispeil                                   |
@@ -38,7 +38,7 @@
 | verlieben in                         | Akkusativ | in            | Ich bein in meine Frau verliebt.           |
 | bedanken sich mit/beit für           | Akkusativ | für           | Ich bedanke mich bei euch für das Geschenk |
 |--------------------------------------+-----------+---------------+--------------------------------------------|
-* Verben mit untershiedlichen Verwendenen
+* Verben mit untershiedlichen Verwendungen
 :PROPERTIES:
 :CUSTOM_ID: verben-mit-unterschiedlichen-verwendungen
 :END:
