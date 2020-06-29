@@ -1,6 +1,6 @@
 * Table of Contents
 - [[#der-die-das][der die das]]
-- [[#artikel-mit-adjektiv][Artikel mit Adjektiv]]
+- [[#artikel][Artikel]]
 - [[#satz-struktur][Satz Struktur]]
 - [[#prapositionen][Prapositionen]]
 - [[#pronomen][Pronomen]]
@@ -18,6 +18,7 @@
 - [[#passiversatzformen][Passiversatzformen]]
 - [[#je-nachdem][je nachdem]]
 - [[#konzessive-satzverbindung][Konzessive Satzverbindung]]
+
 * der die das
 :PROPERTIES:
 :CUSTOM_ID: der-die-das
@@ -123,36 +124,131 @@
 |-----------------------------------+-----------------------------------+------------------------------|
 | *-o*                              | /das Büro, das Klo, das Auto,.../ | _aber die Avocado, der Euro_ |
 |-----------------------------------+-----------------------------------+------------------------------|
-
-* Artikel mit Adjektiv
+* Artikel
 :PROPERTIES:
-:CUSTOM_ID: artikel-mit-adjektiv
+:CUSTOM_ID: artikel
 :END:
-|-----------+------------+----------------------+--------------------+----------------------|
-|           |            | Maskulin             | Feminin            | Neutrum              |
-|-----------+------------+----------------------+--------------------+----------------------|
-|           |            | der Mann             | die Frau           | das Kind             |
-|-----------+------------+----------------------+--------------------+----------------------|
-| Nominativ |            |                      |                    |                      |
-|           | bestimmt   | der schöne Mann      | die schöne Frau    | das schöne Kind      |
-|           | unbestimmt | ein schöner Mann     | eine schöne Frau   | ein schönes Kind     |
-|           | Plural     | die schönen Männer   | die schönen Frauen | die schönen Kinder   |
-|-----------+------------+----------------------+--------------------+----------------------|
-| Dativ     |            |                      |                    |                      |
-|           | bestimmt   | dem schönen Mann     | der schönen Frau   | dem schönen Kind     |
-|           | unbestimmt | einem schönen Mann   | einer schönen Frau | einem schönen Kind   |
-|           | Plural     | den schönen Männern  | den schönen Frauen | den schönen Kindern  |
-|-----------+------------+----------------------+--------------------+----------------------|
-| Akkusativ |            |                      |                    |                      |
-|           | bestimmt   | den schönen Mann     | die schöne Frau    | das schöne Kind      |
-|           | unbestimmt | einen schönen Mann   | eine schöne Frau   | ein schönes Kind     |
-|           | Plural     | die schönen Männer   | die schönen Frauen | die schönen Kinder   |
-|-----------+------------+----------------------+--------------------+----------------------|
-| Genitiv   |            |                      |                    |                      |
-|           | bestimmt   | des schönen Mannes   | der schönen Frau   | des schönen Kindes   |
-|           | unbestimmt | eines schönen Mannes | einer schönen Frau | eines schönen Kindes |
-|           | Plural     | der schönen Männer   | der schönen Frauen | der schönen Kinder   |
-|-----------+------------+----------------------+--------------------+----------------------|
+** Possessivartikel
+- *Nominativ*
+
+|-----------------------------+----------------------------|
+| Personalprononmen Nominativ | Possessivartikel Nominativ |
+|-----------------------------+----------------------------|
+| ich                         | mein                       |
+| du                          | dein                       |
+| er                          | sein                       |
+| sie                         | ihr                        |
+| es                          | sein                       |
+| wir                         | unser                      |
+| ihr                         | euer                       |
+| sie                         | ihr                        |
+| Sie                         | Ihr                        |
+|-----------------------------+----------------------------|
+
+- *Deklination der Possessivartikel*
+
+|-----------+----------+---------+---------+--------|
+| Kasus     | Maskulin | Feminin | Neutrum | Plural |
+|-----------+----------+---------+---------+--------|
+| Nominativ | mein     | meine   | mein    | meine  |
+| Akkusativ | meinen   | meine   | mein    | meine  |
+| Dativ     | meinem   | meiner  | meinem  | meinen |
+| Genitiv   | meines   | meiner  | meines  | meiner |
+|-----------+----------+---------+---------+--------|
+** Artikel mit Adjektiv
+
+- *unbestimmt*
+
+|-----------+----------------------+----------------------+--------------------|
+| Kasus     | Maskulin             | Neutrum              | Feminin            |
+|-----------+----------------------+----------------------+--------------------|
+| Nominativ | ein schöner Mann     | ein schönes Kind     | eine schöne Frau   |
+| Akkusativ | einen schönen Mann   | ein schönes Kind     | eine schöne Frau   |
+| Dativ     | einem schönen Mann   | einem schönen Kind   | einer schönen Frau |
+| Genitiv   | eines schönen Mannes | eines schönen Kindes | einer schönen Frau |
+|-----------+----------------------+----------------------+--------------------|
+ 
+- *bestimmt*
+
+|-----------+--------------------+--------------------+------------------|
+| Kasus     | Maskulin           | Neutrum            | Feminin          |
+|-----------+--------------------+--------------------+------------------|
+| Nominativ | der schöne Mann    | das schöne Kind    | die schöne Frau  |
+| Akkusativ | den schönen Mann   | das schöne Kind    | die schöne Frau  |
+| Dativ     | dem schönen Mann   | dem schönen Kind   | der schönen Frau |
+| Genitiv   | des schönen Mannes | des schönen Kindes | der schönen Frau |
+|-----------+--------------------+--------------------+------------------|
+
+
+- *Plural*
+|-----------+---------------------|
+| Kasus     |                     |
+|-----------+---------------------|
+| Nominativ | die schönen Männer  |
+| Akkusativ | die schönen Männer  |
+| Dativ     | den schönen Männern |
+| Genitiv   | der schönen Männer  |
+|-----------+---------------------|
+
+* Pronomen
+:PROPERTIES:
+:CUSTOM_ID: pronomen
+:END:
+** Personalprononmen
+|-----------+-----------+-------------+-------------|
+| Nominativ | Akkusativ | Dativ       | Genitiv     |
+|-----------+-----------+-------------+-------------|
+| ich       | mich      | mir         | meiner      |
+| du        | dich      | dir         | deiner      |
+| er        | ihn       | ihm         | seiner      |
+| sie       | sie       | ihr         | ihrer       |
+| es        | es        | igm         | seiner      |
+| wir       | uns       | unser       | unser       |
+| ihr       | euch      | euch        | euer        |
+| sie/Sie   | sie/Sie   | ihnen/Ihnen | ihrer/Ihrer |
+|-----------+-----------+-------------+-------------|
+** Reflexiv Pronomen 
+|-----------+-----------+-------|
+|           | Akkusativ | Dativ |
+|-----------+-----------+-------|
+| ich       | mich      | mir   |
+| du        | dich      | dir   |
+| er/sie/es | sich      | sich  |
+| wir       | uns       | uns   |
+| ihr       | euch      | euch  |
+| sie/Sie   | sich      | sich  |
+|-----------+-----------+-------|
+
+- Sie werden mit reflexiven und reziproken Verben benutzt.
+- Sie beziehen sich immer auf das Subjekt.
+** Relative Pronomen
+|-----------+----------+---------+---------+--------+-----------------------------------------------------|
+|           | Maskulin | Feminin | Neutrum | Plural |                                                     |
+|-----------+----------+---------+---------+--------+-----------------------------------------------------|
+| Nominativ | der      | die     | das     | die    | Der Mann, der dort steht, ist mein Vater            |
+|-----------+----------+---------+---------+--------+-----------------------------------------------------|
+| Genitiv   | dessen   | deren   | dessen  | deren  | Die Frau, deren Mann Pilot ist, heißt Ingrid        |
+|-----------+----------+---------+---------+--------+-----------------------------------------------------|
+| Dativ     | dem      | der     | dem     | denen  | Das Haus, von dem ich träume, hat ein Schwimmbecken |
+|           |          |         |         |        | Das sind die Frauen, denen ich vertraue.            |
+|-----------+----------+---------+---------+--------+-----------------------------------------------------|
+| Akkustaiv | den      | die     | das     | die    | Der Bus, auf den ich Warte, kommt in 10 Minuten     |
+|-----------+----------+---------+---------+--------+-----------------------------------------------------|
+- Die Relativpronomen leiten Relativsätze ein
+- Das genus und der Numerus vom Bezugswort bestimmem
+- Das Verb des Nebensatz bestimmt den Kasus des Relativepronomens
+- oder, wenn vorhanden die Praposition
+** Prapositional Pronomen *nur for Sache (things)*
+|---------------------+-------+---------+---------+--------------------------------|
+| Adv + Prapositionen |       |         |         |                                |
+|---------------------+-------+---------+---------+--------------------------------|
+| da (r)              |       |         |         |                                |
+|                     | auf   | darauf  |         |                                |
+|                     | an    | daran   | woran   | Ich möchte daran nicht denken. |
+|                     | mit   | damit   | womit   |                                |
+|                     | durch | dadurch |         |                                |
+|                     | über  | darüber | worüber |                                |
+|---------------------+-------+---------+---------+--------------------------------|
 * Satz Struktur
 :PROPERTIES:
 :CUSTOM_ID: satz-struktur
@@ -215,42 +311,6 @@
 |                   |      | zwischen |
 |                   |      | unter    |
 |-------------------+------+----------|
-* Pronomen
-:PROPERTIES:
-:CUSTOM_ID: pronomen
-:END:
-** Reflexiv Pronomen 
--  *mich, mir, dich, dir, sich, uns, euch und sich*.
-- Sie werden mit reflexiven und reziproken Verben benutzt.
-- Sie beziehen sich immer auf das Subjekt.
-** Prapositional Pronomen *nur for Sache (things)*
-|---------------------+-------+---------+---------+--------------------------------|
-| Adv + Prapositionen |       |         |         |                                |
-|---------------------+-------+---------+---------+--------------------------------|
-| da (r)              |       |         |         |                                |
-|                     | auf   | darauf  |         |                                |
-|                     | an    | daran   | woran   | Ich möchte daran nicht denken. |
-|                     | mit   | damit   | womit   |                                |
-|                     | durch | dadurch |         |                                |
-|                     | über  | darüber | worüber |                                |
-|---------------------+-------+---------+---------+--------------------------------|
-** Relative Pronomen
-|-----------+----------+---------+---------+--------+-----------------------------------------------------|
-|           | Maskulin | Feminin | Neutrum | Plural |                                                     |
-|-----------+----------+---------+---------+--------+-----------------------------------------------------|
-| Nominativ | der      | die     | das     | die    | Der Mann, der dort steht, ist mein Vater            |
-|-----------+----------+---------+---------+--------+-----------------------------------------------------|
-| Genitiv   | dessen   | deren   | dessen  | deren  | Die Frau, deren Mann Pilot ist, heißt Ingrid        |
-|-----------+----------+---------+---------+--------+-----------------------------------------------------|
-| Dativ     | dem      | der     | dem     | denen  | Das Haus, von dem ich träume, hat ein Schwimmbecken |
-|           |          |         |         |        | Das sind die Frauen, denen ich vertraue.            |
-|-----------+----------+---------+---------+--------+-----------------------------------------------------|
-| Akkustaiv | den      | die     | das     | die    | Der Bus, auf den ich Warte, kommt in 10 Minuten     |
-|-----------+----------+---------+---------+--------+-----------------------------------------------------|
-- Die Relativpronomen leiten Relativsätze ein
-- Das genus und der Numerus vom Bezugswort bestimmem
-- Das Verb des Nebensatz bestimmt den Kasus des Relativepronomens
-- oder, wenn vorhanden die Praposition
 * Modal verben
 :PROPERTIES:
 :CUSTOM_ID: modal-verben
@@ -269,30 +329,86 @@
 :PROPERTIES:
 :CUSTOM_ID: konjunktiv-ii
 :END:
-|--------+------------------+---------------------------+-------------------------------|
-|        |                  |                           |                               |
-|--------+------------------+---------------------------+-------------------------------|
-| gehört |                  |                           |                               |
-|--------+------------------+---------------------------+-------------------------------|
-|        | irrelae Gedanken |                           |                               |
-|        | wünsch           |                           |                               |
-|        | der Vorschlag    |                           |                               |
-|--------+------------------+---------------------------+-------------------------------|
-| Regal  | Gegenwart        | würde + Inf               |                               |
-|--------+------------------+---------------------------+-------------------------------|
-|        | Ausnahmen        | Hilfsverb                 | ich hätte/ich wäre            |
-|        |                  | Modalverb                 | ich müsste/ich könnte         |
-|        |                  | brauchen                  | ich bräuchte                  |
-|        |                  | wissen                    | ich wüsste                    |
-|--------+------------------+---------------------------+-------------------------------|
-|        | Vergangenheit    | HV in Konk 2 + Partizip 2 |                               |
-|        |                  |                           | Ich hätte die Pizza gegessen  |
-|        |                  |                           | Ich wäre in den Park gegangen |
-|--------+------------------+---------------------------+-------------------------------|
+- *werden*
+|-----------+-----------+------------+---------------|
+|           | Indikativ | Präteritum | Konjunktiv II |
+|-----------+-----------+------------+---------------|
+| ich       | werde     | wurde      | würde         |
+| du        | wirst     | wurdest    | würdest       |
+| er/sie/es | wird      | wurde      | würde         |
+| wir       | werden    | wurden     | würden        |
+| ihr       | werdet    | wurdet     | würdet        |
+| sie/Sie   | werden    | wurden     | würden        |
+|-----------+-----------+------------+---------------|
+
+- *sein*
+|-----------+-----------+------------+---------------+--------------|
+|           | Indikativ | Präteritum | Konjunktiv II | Konjunktiv I |
+|-----------+-----------+------------+---------------+--------------|
+| ich       | bin       | war        | wäre          | sei          |
+| du        | bist      | warst      | wärest        | sei(e)st     |
+| er/sie/es | ist       | war        | wäre          | sei          |
+| wir       | sind      | waren      | wären         | seien        |
+| ihr       | seid      | wart       | wäret         | seiet        |
+| sie/Sie   | sind      | waren      | wären         | seien        |
+|-----------+-----------+------------+---------------+--------------|
+
+- Regeln
+|--------+------------------+---------------------------------+-----------------------------------------------------------|
+|        |                  |                                 |                                                           |
+|--------+------------------+---------------------------------+-----------------------------------------------------------|
+| gehört |                  |                                 |                                                           |
+|--------+------------------+---------------------------------+-----------------------------------------------------------|
+|        | irrelae Gedanken |                                 |                                                           |
+|        | wünsch           |                                 |                                                           |
+|        | der Vorschlag    |                                 |                                                           |
+|--------+------------------+---------------------------------+-----------------------------------------------------------|
+|        | *Gegenwart*      |                                 |                                                           |
+|        |                  |                                 |                                                           |
+|--------+------------------+---------------------------------+-----------------------------------------------------------|
+|        |                  | würde(n) + Inf                  | Hätte ich viel Geld, würde ich eine Weltreise machen.     |
+|--------+------------------+---------------------------------+-----------------------------------------------------------|
+|        | Ausnahmen        |                                 |                                                           |
+|        |                  | Hilfsverb                       | ich hätte/ich wäre                                        |
+|        |                  | Modalverb                       | ich müsste/könnte/wollte/sollte/möchte/dürfte             |
+|        |                  | brauchen                        | ich bräuchte                                              |
+|        |                  | wissen                          | ich wüsste                                                |
+|--------+------------------+---------------------------------+-----------------------------------------------------------|
+|        | *Vergangenheit*  |                                 |                                                           |
+|--------+------------------+---------------------------------+-----------------------------------------------------------|
+|        |                  | HV in Konk 2 + Partizip 2       |                                                           |
+|        |                  | wäre(n) / hätte(n) + Partizip 2 |                                                           |
+|        |                  |                                 | Ich hätte die Pizza gegessen                              |
+|        |                  |                                 | Ich wäre in den Park gegangen                             |
+|--------+------------------+---------------------------------+-----------------------------------------------------------|
+|        |                  | Modalverben                     |                                                           |
+|        |                  | hätte(n) + Inf + Modalverb      |                                                           |
+|        |                  |                                 | Ich hätte dir helfen können, aber habe ich nicht gemacht. |
+|        |                  |                                 | Wenn ich um meine Beine kummern sollen hätte, hätte ich   |
+|        |                  |                                 | keine Verletzung.                                         |
+|--------+------------------+---------------------------------+-----------------------------------------------------------|
+
 * Konjunktiv I
 :PROPERTIES:
 :CUSTOM_ID: konjunktiv-i
 :END:
+*inderekte rede*
+
+|-----------+----------+------------------------+--------------------------+------------------------------+-----------------------------------------------|
+|           | sein     | haben                  | Modalverben              | andere Verben                | Beispiel                                      |
+|-----------+----------+------------------------+--------------------------+------------------------------+-----------------------------------------------|
+| ich       | sei      | habe -> hätte (K II)   | könne                    | sehe -> würd sehen (K II)    | Er sagt, ich sei 20 Jahre alt.                |
+| du        | sei(e)st | habest                 | könnest                  | sehest                       | Er sagt, du könnest das schaffen.             |
+| er/sie/es | sei      | habe                   | könne                    | sehe                         | Sie sagt, er gehe nach Hause.                 |
+| wir       | seien    | haben -> hätten (K II) | können -> könnten (K II) | sehen -> würden sehen (K II) | Er sagt, wir hätten das Geld.                 |
+| ihr       | sei(e)t  | habet                  | könnet                   | sehet                        | Er sagt, ihr habet kein Papier.               |
+| sie/Sie   | seien    | haben -> hätten (K II) | können -> könnten (K II) | sehen -> würden sehen (K II) | Er sagt, sie würden die Vernstatlung besuchen |
+|-----------+----------+------------------------+--------------------------+------------------------------+-----------------------------------------------|
+
+- *Wenn der Konjunktiv-Iform mit Konjunktiv-IIform übereinstimmt, dann benutzt man Konjunktiv-II*
+  - Er sagt, sie haben keine Zeit ===> /Er sagt, sie hätten keine Zeit/
+- *Vergangenheit* =Konjunktiv I von haben oder sein + Partizip II=
+  - Man sagt, Gutenberg /habe/ den Buchdruck /erfunden/ und mit 40 Jahren /sei/ man im Mittelalter sehr alt /gewesen/.
 * Negation
 :PROPERTIES:
 :CUSTOM_ID: negation
@@ -519,19 +635,74 @@ es als *Stellvertreter* von dass-Sätzen oder *Infinitivkonstruktieren*
 :CUSTOM_ID: passiv
 :END:
 - Aktion ist wichtig
-|-----------------+--------------------------------------------------------+--------------------------------|
-|                 |                                                        |                                |
-|-----------------+--------------------------------------------------------+--------------------------------|
-| Präsens         | werden + Partizip II                                   | Die Suppe wird gekocht.        |
-|-----------------+--------------------------------------------------------+--------------------------------|
-| Präteritum      | wurden + Partizip II                                   | Die Suppe wurde gekocht.       |
-|-----------------+--------------------------------------------------------+--------------------------------|
-| Perfekt         | sein + Partizip II + worden                            | Die Suppe ist gekocht worden.  |
-|-----------------+--------------------------------------------------------+--------------------------------|
-| Plusquamperfekt | waren + Partizip II + worden                           | Die Suppe war gekocht worden.  |
-|-----------------+--------------------------------------------------------+--------------------------------|
-| mit Modalverb   | Modalverb im Präsens/Präteritum + Partizip II + werden | Die Suppe soll gekocht werden. |
-|-----------------+--------------------------------------------------------+--------------------------------|
+- Arte des Passivs
+
+|--------------------------------+-----------------------------------------------------------|
+| Vorgangspassiv                 | Zustandspassiv                                            |
+|--------------------------------+-----------------------------------------------------------|
+| Beschreibt den Prozess         | Beschreibt Das Ergebnis oder einer Handlung               |
+|--------------------------------+-----------------------------------------------------------|
+| Das Passiv wird jetzt gelernt. | Das Passiv ist gelernt. (man weißt alles über das Passiv) |
+|--------------------------------+-----------------------------------------------------------|
+
+- *Vorgangspassiv Zeitformen*
+
+|-----------------+--------------------------------------------------------+---------------------------------------------|
+| Zeitform        | Struktur                                               | Beispeil                                    |
+|-----------------+--------------------------------------------------------+---------------------------------------------|
+| Präsens         | *werden* + Partizip II                                 | Ein Deutschkurs wird jetzt besucht.         |
+|-----------------+--------------------------------------------------------+---------------------------------------------|
+| Präteritum      | *wurden* + Partizip II                                 | Ein Deutschkurs wurde gestern besucht.      |
+|-----------------+--------------------------------------------------------+---------------------------------------------|
+| Perfekt         | *sein* + Partizip II + worden                          | Ein Deutschkurs ist gestern besucht worden. |
+|-----------------+--------------------------------------------------------+---------------------------------------------|
+| Futur I         | *werden* + Partizip II + werden                        | Ein Deutschkurs wird morgen besucht werden. |
+|-----------------+--------------------------------------------------------+---------------------------------------------|
+| Plusquamperfekt | *waren* + Partizip II + worden                         | Die Suppe war gekocht worden.               |
+|-----------------+--------------------------------------------------------+---------------------------------------------|
+| mit Modalverb   | Modalverb im Präsens/Präteritum + Partizip II + werden | Die Suppe soll gekocht werden.              |
+|-----------------+--------------------------------------------------------+---------------------------------------------|
+
+- *Passiv mit Modalverben*
+/Ich muss die HA machen./
+|-----------------+-----------------------------------------------+-------------------------------------|
+| Die Zeitformen  | Der Struktur                                  | Das Beispeil                        |
+|-----------------+-----------------------------------------------+-------------------------------------|
+| Präsens         | *Modalverb Präsens* + Partizip II + werden    | Die HA muss gemacht werden.         |
+|-----------------+-----------------------------------------------+-------------------------------------|
+| Präteritum      | *Modalverb Präteritum* + Partizip II + werden | Die HA musste gemacht werden.       |
+|-----------------+-----------------------------------------------+-------------------------------------|
+| Perfekt         | *haben* + Partizip II + werden + Modalverb    | Die HA hat gemacht werden müssen.   |
+|-----------------+-----------------------------------------------+-------------------------------------|
+| Plusquamperfekt | *hatten* + Partizip II + werden + Modalverb   | Die HA hatte gemacht werden müssen. |
+|-----------------+-----------------------------------------------+-------------------------------------|
+| Futur I         | *werden* + Partizip II + werden + Modalverb   | Die HA wird gemacht werden müssen.  |
+|-----------------+-----------------------------------------------+-------------------------------------|
+
+- *Zustandspassiv* oder *sein-passiv*
+  - Ergebnis eines Prozess oder eines vorgehenden Vorgangs.
+  - Das zustandspassiv beschreibt den Zustand nach einer Aktion/Handlung.
+  - Wenn man ausdrücken will, dass eine Handlung bereits abgeschlossen ist.
+  - Wenn man einen erreichten Zustand ausdrücken will.
+  - *Nur mit Verben, durch die ein neuer Zustand entsteht*
+|-----------------+---------------------------------+---------------------------------------------+---------------------------------|
+|                 | Der Struktur                    | Das Beispeil                                | Die Ersatzform mit dem Adjektiv |
+|-----------------+---------------------------------+---------------------------------------------+---------------------------------|
+|                 | *sein* + Partizip II            | Die kartofflen sind geschält.               |                                 |
+|                 |                                 | Der Brief ist unterschrieben.               |                                 |
+| Präsens         |                                 | Das Fenster ist geöffnet.                   | Das Fenster ist offen.          |
+|                 |                                 | Jetzt dein Eis ist geschmolzen.             |                                 |
+|                 |                                 | Heute ist die Praxis geschlossen.           |                                 |
+|-----------------+---------------------------------+---------------------------------------------+---------------------------------|
+| Präteritum      | *waren* + Partizip II           | Gestern war die Praxis geschlossen.         |                                 |
+|-----------------+---------------------------------+---------------------------------------------+---------------------------------|
+| Perfekt         | *sein* + Partizip II + gewesen  | Gestern ist die Praxis geschlossen gewesen. |                                 |
+|-----------------+---------------------------------+---------------------------------------------+---------------------------------|
+| Plusquamperfekt | *waren* + Partizip II + gewesen | Gestern war die Praxis geschlossen gewesen. |                                 |
+|-----------------+---------------------------------+---------------------------------------------+---------------------------------|
+| Futur I         | *werden* + Partizip II + sein   | Morgen wird die Praxis geschlossen sein.    |                                 |
+|-----------------+---------------------------------+---------------------------------------------+---------------------------------|
+
 * Passiversatzformen
 :PROPERTIES:
 :CUSTOM_ID: passiversatzformen

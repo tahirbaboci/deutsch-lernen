@@ -86,7 +86,7 @@
 :END:
 ** machen
 |---+---------------------------------------------------------+----------------------------------------------------------------------|
-| 1 | im Sinne von eine Tätigkeit ausüben und beenden         | erledigen, ausführen                                                 |
+| 1 | *im Sinne von eine Tätigkeit ausüben und beenden*       | *erledigen, ausführen*                                               |
 |---+---------------------------------------------------------+----------------------------------------------------------------------|
 |   | Ich mache meine Hausaufgabe.                            | Ich *erledige* meine Hausaufgabe                                     |
 |   | Ich mache jetzt eine paar wichtige Telefonate.          | Ich *führe* jetzt ein paar wichtige Telefonate *aus*.                |
