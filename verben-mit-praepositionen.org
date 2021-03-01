@@ -5,6 +5,8 @@
 |-----------------------+------------------------------------+------------------------------------------------------------|
 | aufhören mit          | etwas nicht mehr machen/tun        | Du müsst mit dem Rauchen aufhören.                         |
 |-----------------------+------------------------------------+------------------------------------------------------------|
+| anfangen mit          |                                    | Nächste Woche fängt unser Team mit einem neuen Projekt an. |
+|-----------------------+------------------------------------+------------------------------------------------------------|
 | sich beeilen mit      | etwas schnell machen               | Ich muss mich mit dem Aufraümen beeilen.                   |
 |-----------------------+------------------------------------+------------------------------------------------------------|
 | sich mit jdm. einigen | mit jemandem Verständnis erreichen | Du musst dich mit deiner Frau geeinigt.                    |
@@ -15,7 +17,7 @@
 |-----------------------+------------------------------------+------------------------------------------------------------|
 | spielen mit           | --                                 | Ich spiele mit meiner Handy.                               |
 |-----------------------+------------------------------------+------------------------------------------------------------|
-| sprechen mit          | --                                 | Morgen spreche ich mit meinem Chef.                        |
+| sprechen mit          | --                                 | Morgen spreche ich mit meinem Chef über das Projekt.       |
 |-----------------------+------------------------------------+------------------------------------------------------------|
 | reden mit             | --                                 | Morgen rede ich mit meiner Frau über den Urlaub.           |
 |-----------------------+------------------------------------+------------------------------------------------------------|
@@ -48,7 +50,7 @@
 |--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
 | eingehen auf (akk)             | etwas akzeptieren                       | John /geht/ nicht _auf_ die Annes Vorschlag /ein/.                     |
 |--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
-| sich freuen auf (akk)          | jemandes Ankunft, Besuch oder eine      | Ich /freue mich/ _auf_ meine Wandergung ins Berchtsgaden.              |
+| sich freuen auf (akk)          | jemandes Ankunft, Besuch oder eine      | Ich /freue mich/ _auf_ die Wandergung ins Berchtsgaden.                |
 |                                | bestimmte Ereigenis mit Spannend und    |                                                                        |
 |                                | Freude erwarten                         |                                                                        |
 |--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
@@ -58,6 +60,7 @@
 | hoffen auf (akk)               | -                                       | Wir haben lange _auf_ besseres Wetter /gehofft/.                       |
 |--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
 | sich konzentrieren auf (akk)   | -                                       | Ich muss /mich/ _auf_ die Training /konzentrieren/.                    |
+|                                |                                         | Ich muss mich auf die Fitness konzentrieren, um gesund zu bleiben.     |
 |--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
 | reagieren auf (akk)            | -                                       | Wie hat die Künden _auf_ den Angebot /reagiert/?                       |
 |--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
@@ -74,4 +77,55 @@
 | warten auf (akk)               | -                                       | Ich /warte/ _auf_ den Bus.                                             |
 |--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
 | etwas _auf_ den Kopf _stellen_ | etwas komplett ändern                   | Die neue Entdeckung stellt die Prinzipell auf den Kopf.                |
+|--------------------------------+-----------------------------------------+------------------------------------------------------------------------|
 
+* vor
+|-------------------+-----------------------+-----------------------------------------------------|
+| Verb              | Meinung               | Beispiel                                            |
+|-------------------+-----------------------+-----------------------------------------------------|
+| sich fürchten vor | vor etwas Angst haben | Ich fürchte mich vor der Wut meiner Frau.           |
+|                   |                       | Als ich Kind war, fürchtete ich vor der Dunkelheit. |
+|-------------------+-----------------------+-----------------------------------------------------|
+|                   |                       |                                                     |
+
+* über
+|----------------------------------+-----------------------------+--------------------------------------------------------------------------|
+| Verb                             | Meinung                     | Beispiel                                                                 |
+|----------------------------------+-----------------------------+--------------------------------------------------------------------------|
+| sich ärgern über                 | Wütend sein, beshweren      | Ich ärgere mich über die schelchte Netzverbindung.                       |
+| sich freuen über                 | to be happy about something | Ich freue mich über das leckre Essen, das meine Frau heute gekocht hast. |
+| lachen über                      |                             | Wir lachen über die komische Fehler, die ich gemacht habe.               |
+| sprechen mit jemandem über etwas |                             | Morgen spreche ich mit meinem Chef über das Projekt.                     |
+|                                  |                             |                                                                          |
+* um
+
+|------------------+---------+------------------------------------------------------|
+| Verb             | Meinung | Beispiel                                             |
+|------------------+---------+------------------------------------------------------|
+| sich bewerben um |         | Ich bewerbe mich um die Stelle as Softwarearchitekt. |
+| bitten um        |         | Wir bitten um ihre Aufmerksamkeit.                   |
+* bei
+|--------------------------------------+---------+--------------------------------------------------------|
+| Verb                                 | Meinung | Beispiel                                               |
+|--------------------------------------+---------+--------------------------------------------------------|
+| sich bedanken bei jemandem für etwas | -       | Ich bedanke mich bei meinem Kollege für den Vorschlag. |
+|                                      |         |                                                        |
+* für
+|--------------------------------------+----------------+--------------------------------------------------------|
+| Verb                                 | Meinung        | Beispiel                                               |
+|--------------------------------------+----------------+--------------------------------------------------------|
+| sich bedanken bei jemandem für etwas | -              | Ich bedanke mich bei meinem Kollege für den Vorschlag. |
+| sich engagieren für etwas            | to be commited | Ich engagiere mich für den Umweltschutz.               |
+|                                      |                |                                                        |
+* nach
+|----------------+---------+-------------------------------------------|
+| Verb           | Meinung | Beispiel                                  |
+|----------------+---------+-------------------------------------------|
+| fragen nach    |         | Ich frage nach der Abfahrtszeit der Bahn. |
+| schmecken nach |         | Die Suppe schmeckt nach Salz.             |
+* an
+|------------------+---------+------------------------------------|
+| Verb             | Meinung | Beispiel                           |
+|------------------+---------+------------------------------------|
+| glauben an (akk) |         | Ich glaube nicht an die Politiker. |
+| denken an (akk)  |         | Ich denk oft an meine Kindheit.    |

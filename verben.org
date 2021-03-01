@@ -36,7 +36,7 @@
 | sprechen über                        | Akkusativ | über          | Ich spreche mit meinem Vater über ihn.     |
 | fragen nach                          | Dativ     | nach          | Ich frage nach dem Weg.                    |
 | verlieben in                         | Akkusativ | in            | Ich bein in meine Frau verliebt.           |
-| bedanken sich mit/beit für           | Akkusativ | für           | Ich bedanke mich bei euch für das Geschenk |
+| bedanken sich mit/bei für            | Akkusativ | für           | Ich bedanke mich bei euch für das Geschenk |
 |--------------------------------------+-----------+---------------+--------------------------------------------|
 * Verben mit unterschiedlichen Verwendungen
 :PROPERTIES:

@@ -1,4 +1,4 @@
-* Table of Contents
+* Inhaltverzeichnis
 - [[#der-die-das][der die das]]
 - [[#artikel][Artikel]]
 - [[#satz-struktur][Satz Struktur]]
@@ -18,7 +18,6 @@
 - [[#passiversatzformen][Passiversatzformen]]
 - [[#je-nachdem][je nachdem]]
 - [[#konzessive-satzverbindung][Konzessive Satzverbindung]]
-
 * der die das
 :PROPERTIES:
 :CUSTOM_ID: der-die-das
@@ -145,7 +144,7 @@
 | Sie                         | Ihr                        |
 |-----------------------------+----------------------------|
 
-- *Deklination der Possessivartikel*
+- *Deklination der Possessivartikel* -- /Ich/
 
 |-----------+----------+---------+---------+--------|
 | Kasus     | Maskulin | Feminin | Neutrum | Plural |
@@ -156,8 +155,8 @@
 | Genitiv   | meines   | meiner  | meines  | meiner |
 |-----------+----------+---------+---------+--------|
 ** Artikel mit Adjektiv
-
-- *unbestimmt*
+/ein, schön/ /Mann/ /Frau/ /Kind/
+- *unbestimmt Singular*
 
 |-----------+----------------------+----------------------+--------------------|
 | Kasus     | Maskulin             | Neutrum              | Feminin            |
@@ -168,27 +167,27 @@
 | Genitiv   | eines schönen Mannes | eines schönen Kindes | einer schönen Frau |
 |-----------+----------------------+----------------------+--------------------|
  
-- *bestimmt*
+- *bestimmt singular*
 
-|-----------+--------------------+--------------------+------------------|
-| Kasus     | Maskulin           | Neutrum            | Feminin          |
-|-----------+--------------------+--------------------+------------------|
-| Nominativ | der schöne Mann    | das schöne Kind    | die schöne Frau  |
-| Akkusativ | den schönen Mann   | das schöne Kind    | die schöne Frau  |
-| Dativ     | dem schönen Mann   | dem schönen Kind   | der schönen Frau |
-| Genitiv   | des schönen Mannes | des schönen Kindes | der schönen Frau |
-|-----------+--------------------+--------------------+------------------|
+|-----------+--------------------+--------------------+------------------+---------------------|
+| Kasus     | Maskulin           | Neutrum            | Feminin          | Plural              |
+|-----------+--------------------+--------------------+------------------+---------------------|
+| Nominativ | der schöne Mann    | das schöne Kind    | die schöne Frau  | die schönen Männer  |
+| Akkusativ | den schönen Mann   | das schöne Kind    | die schöne Frau  | die schönen Frauen  |
+| Dativ     | dem schönen Mann   | dem schönen Kind   | der schönen Frau | den schönen Kindern |
+| Genitiv   | des schönen Mannes | des schönen Kindes | der schönen Frau | der schönen Männer  |
+|-----------+--------------------+--------------------+------------------+---------------------|
 
+- *ohne Artikel*
 
-- *Plural*
-|-----------+---------------------|
-| Kasus     |                     |
-|-----------+---------------------|
-| Nominativ | die schönen Männer  |
-| Akkusativ | die schönen Männer  |
-| Dativ     | den schönen Männern |
-| Genitiv   | der schönen Männer  |
-|-----------+---------------------|
+|-----------+----------------+----------------+--------------+----------------|
+| Kasus     | Maskulin       | Neutrum        | Feminin      | Plural         |
+|-----------+----------------+----------------+--------------+----------------|
+| Nominativ | schöner Mann   | schönes Kind   | schöne Frau  | schöne Frauen  |
+| Akkusativ | schönen Mann   | schönes Kind   | schöne Frau  | schöne Frauen  |
+| Dativ     | schönem Mann   | schönem Kind   | schöner Frau | schönen Männer |
+| Genitiv   | schönen Mannes | schönen Kindes | schöner Frau | schöner Kinder |
+|-----------+----------------+----------------+--------------+----------------|
 
 * Pronomen
 :PROPERTIES:
@@ -202,7 +201,7 @@
 | du        | dich      | dir         | deiner      |
 | er        | ihn       | ihm         | seiner      |
 | sie       | sie       | ihr         | ihrer       |
-| es        | es        | igm         | seiner      |
+| es        | es        | ihm         | seiner      |
 | wir       | uns       | unser       | unser       |
 | ihr       | euch      | euch        | euer        |
 | sie/Sie   | sie/Sie   | ihnen/Ihnen | ihrer/Ihrer |
@@ -218,7 +217,6 @@
 | ihr       | euch      | euch  |
 | sie/Sie   | sich      | sich  |
 |-----------+-----------+-------|
-
 - Sie werden mit reflexiven und reziproken Verben benutzt.
 - Sie beziehen sich immer auf das Subjekt.
 ** Relative Pronomen
@@ -227,18 +225,19 @@
 |-----------+----------+---------+---------+--------+-----------------------------------------------------|
 | Nominativ | der      | die     | das     | die    | Der Mann, der dort steht, ist mein Vater            |
 |-----------+----------+---------+---------+--------+-----------------------------------------------------|
-| Genitiv   | dessen   | deren   | dessen  | deren  | Die Frau, deren Mann Pilot ist, heißt Ingrid        |
+| Akkustaiv | den      | die     | das     | die    | Der Bus, auf den ich Warte, kommt in 10 Minuten     |
 |-----------+----------+---------+---------+--------+-----------------------------------------------------|
 | Dativ     | dem      | der     | dem     | denen  | Das Haus, von dem ich träume, hat ein Schwimmbecken |
 |           |          |         |         |        | Das sind die Frauen, denen ich vertraue.            |
 |-----------+----------+---------+---------+--------+-----------------------------------------------------|
-| Akkustaiv | den      | die     | das     | die    | Der Bus, auf den ich Warte, kommt in 10 Minuten     |
+| Genitiv   | dessen   | deren   | dessen  | deren  | Die Frau, deren Mann Pilot ist, heißt Ingrid        |
 |-----------+----------+---------+---------+--------+-----------------------------------------------------|
 - Die Relativpronomen leiten Relativsätze ein
 - Das genus und der Numerus vom Bezugswort bestimmem
 - Das Verb des Nebensatz bestimmt den Kasus des Relativepronomens
 - oder, wenn vorhanden die Praposition
-** Prapositional Pronomen *nur for Sache (things)*
+** Prapositional Pronomen 
+*nur for Sache (things)*
 |---------------------+-------+---------+---------+--------------------------------|
 | Adv + Prapositionen |       |         |         |                                |
 |---------------------+-------+---------+---------+--------------------------------|
@@ -665,6 +664,7 @@ es als *Stellvertreter* von dass-Sätzen oder *Infinitivkonstruktieren*
 
 - *Passiv mit Modalverben*
 /Ich muss die HA machen./
+
 |-----------------+-----------------------------------------------+-------------------------------------|
 | Die Zeitformen  | Der Struktur                                  | Das Beispeil                        |
 |-----------------+-----------------------------------------------+-------------------------------------|
@@ -702,6 +702,16 @@ es als *Stellvertreter* von dass-Sätzen oder *Infinitivkonstruktieren*
 |-----------------+---------------------------------+---------------------------------------------+---------------------------------|
 | Futur I         | *werden* + Partizip II + sein   | Morgen wird die Praxis geschlossen sein.    |                                 |
 |-----------------+---------------------------------+---------------------------------------------+---------------------------------|
+
+- *von oder durch*
+|------------------------------------------+-----------------------------------------|
+| von                                      | durch                                   |
+|------------------------------------------+-----------------------------------------|
+| lebendig Täter, einer Person, Tier       | einer  Mittel, eine Sache               |
+|------------------------------------------+-----------------------------------------|
+| Das Passiv von dir gelernt               | Ich wurde durch einen Brief informiert. |
+| Das Auto wird von meinem Mann gewaschen. |                                         |
+|------------------------------------------+-----------------------------------------|
 
 * Passiversatzformen
 :PROPERTIES:

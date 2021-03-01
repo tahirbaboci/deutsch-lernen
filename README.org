@@ -1,4 +1,4 @@
-* Sections
+* Inhaltverzeichnis
 - [[./grammatik.org][Grammatik]]
 - [[./verben.org][Verben Allgemein]]
 - [[./wortschatz.org][Wortschatz]]
