@@ -5,3 +5,5 @@
 - [[./verben-mit-nomen.org][Verben mit Nomen]]
 - [[./verben-mit-praepositionen.org][Verben mit Praepositionen]]
 - [[./nuetzliche-phrasen.org][Nützliche Phrasen]]
+- [[./verben-mit-wortstaemmen.org][Verb Stamm]]
+- [[./redewendungen.org][Redewendungen]]

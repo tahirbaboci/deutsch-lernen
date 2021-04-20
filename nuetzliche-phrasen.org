@@ -3,6 +3,8 @@
 - [[#Scheinen][Scheinen]]
 - [[#meinung-auessern][Meinung aüßern]]
 - [[#je-nachdem][Je nachdem]]
+- [[#allgemiene-phrasen][Allgemiene Phrasen]]
+
 * Bescheid
 :PROPERTIES:
 :CUSTOM_ID: Bescheid
@@ -127,3 +129,16 @@
   3. /Je nachdem wie das Wetter wird, mache ich einen Ausflug./ *Verkürzt*
   4. /Je nachdem ob die Tickets günstig sind, werde ich sie kaufen/
   5. /Je nachdem wie mein Tag morgen aussieht, können wir uns treffen oder müssen das Treffen auf Freitag vershieben./
+* Allgemiene Phrasen
+:PROPERTIES:
+:CUSTOM_ID: allgemiene-phrasen
+:END:
+
+|---------------------+-----------------------------------+---------------------------------------------------------------------|
+| Phrase              | Bedeutung                         | Beispiel                                                            |
+|---------------------+-----------------------------------+---------------------------------------------------------------------|
+| Aber der Reihe nach | One thing at a time / in turn     |                                                                     |
+| jedoch              | however                           | Sie wollte aussteigen, jedoch vergaß sie den Stop-knopf zu drücken. |
+| lästig              | annoying                          | Seine Verhalt was lästig.                                           |
+| ueberaus            | in ungewöhnlich hohem Grade, Maße | Sie ist überaus schell.                                             |
+|---------------------+-----------------------------------+---------------------------------------------------------------------|

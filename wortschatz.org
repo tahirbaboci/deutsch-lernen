@@ -48,3 +48,12 @@
 |           | enttäuscht von   |          |
 |           | nett zu          |          |
 |-----------+------------------+----------|
+* Substantiv
+|------------------+------------------------------------------------------------------------+------------------------------------------------------------|
+| Wort oder Phrase | Bedeutung                                                              | Beispiel                                                   |
+|------------------+------------------------------------------------------------------------+------------------------------------------------------------|
+| Bedürfnis -s,    | Wunsch, Verlangen nach etwas                                           | Ich habe das Bedürfnis, Tischtennis zu spielen.            |
+| Ehrenamtliche    | Person, die ohne geld verdienen arbeitet                               | Ehrenamtliche Arbeit ist nur für die Schüler und Nonnen.   |
+| Geste            | Handlung oder Mitteilung, die etwas indirekt ausdrücken soll (gesture) | Vergeben ist eine freundliche Geste.                       |
+| Vorgang (r)      | Entwicklung, Prozess                                                   | Er erforscht die chemischen Vorgänge bei der Fotosynthese. |
+|------------------+------------------------------------------------------------------------+------------------------------------------------------------|

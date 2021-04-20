@@ -18,6 +18,7 @@
 - [[#passiversatzformen][Passiversatzformen]]
 - [[#je-nachdem][je nachdem]]
 - [[#konzessive-satzverbindung][Konzessive Satzverbindung]]
+- [[#modale-nebensaetze][modale-nebensaetze]]
 * der die das
 :PROPERTIES:
 :CUSTOM_ID: der-die-das
@@ -756,3 +757,21 @@ Bei der konzessiven Satzverbindung werden zwei Sätze verbunden, bei dennen der 
 |---------------------------------+----------------------------------------------------------------------------+-------------------------------------------------|
 | *trotz + Genitiv*               | _Trotz_ _meiner Einladung_ ist er nicht gekommen.                          |                                                 |
 |---------------------------------+----------------------------------------------------------------------------+-------------------------------------------------|
+* modale nebensaetze
+:PROPERTIES:
+:CUSTOM_ID: modale-nebensaetze
+:END:
+- antworten auf die Frage /wie/
+- beschreiben
+  - ein Mittel
+  - die Art und Weise
+- indem und dadurch dass (mit einander ersetzt werder) (Frage Wie)
+  - wenn /dadurch dass/ für die Frage *warum* benutzt wird, dann /dadurch dass/ durch /indem/ nicht ersetzen kann.
+- *indem* (wie)
+  1. Man kann seine Deutschkentennise verbessern, /indem man jeden Tag Deutsch lernt./
+  2. Ich kann mein Handy sperren, /indem ich auf die Taste hier drücke./
+  3. Ich achte auf meine Gesundheit, /indem ich regeläßig Fitness mache./
+- *dadurch dass* (wie und warum)
+  1. /Dadurch dass ich weinger Süßigkeiten esse/, sieht meine Haut besser aus.
+  2. /Dadurch dass ich mich seht gut auf diese Prüfung vorbereitet habe/, konnte ich sie seht gut bestehen.
+  3. /Dadurch dass ich mich rechtzeitig um die Wohnungssuche gekümmert habe/, habe ich so eine schicke Wohnung bekommen.

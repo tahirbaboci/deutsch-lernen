@@ -5,6 +5,7 @@
 - [[#trennbare-verben][Trennbare Verben]]
 - [[verben-mit-praepositionen.org][Verben mit Präposition]]
 - [[#alternativen-von-einfaecher-verben][Alternativen von einfächern Verben]]
+- [[#verb-liste][Verbliste]]
 * Dativ und Akkusativ Verben
 :PROPERTIES:
 :CUSTOM_ID: dativ-und-akkusativ-verben
@@ -111,3 +112,29 @@
 |   | Ich werde meine Prüfung machen.                         | Ich werde meine Prüfung *ablegen*. (zukunft)                         |
 |   |                                                         | Vor zwei Monaten habe ich meine Prüfung *bestanden*. (Vergangenheit) |
 |---+---------------------------------------------------------+----------------------------------------------------------------------|
+* Verben
+:PROPERTIES:
+:CUSTOM_ID: verb-liste
+:END:
+|------------------------------+---------------------------------------------------------+-------------------------------------------------------------------------------|
+| Verb                         | Bedeutung                                               | Beispiel                                                                      |
+|------------------------------+---------------------------------------------------------+-------------------------------------------------------------------------------|
+| auftauen                     | To unfreeze /to melt                                    | Wegene des Klimawandels taut das Eis in Arktis auf.                           |
+| ausgefallen                  | Ungewöhnlich, nicht alltäglich, extravagant             | Das war ein ausgefallener Schlag.                                             |
+| begleiten                    | mitfahren, an einem bestimmten Ort bringen, führen      | Ich begleite dich zum Bahnhof.                                                |
+| durch etw. verursacht werden | To be caused by sth.                                    | Der Klimawandel durch den Menschen verursacht werden.                         |
+| einfallen                    | erinnern or denken an (z.b. Eine Idee)                  |                                                                               |
+| eintauchen                   | unter die Wasseroberfläche gelangen, unter Wasser gehen | Ich bin bereit ins Roboterland einzutauchen.                                  |
+| entfliehen                   | entkommen                                               | Viele Syrische entfliehen seine Heimat, weil es gefährlich ist dort zu leben. |
+| etwas in etwas enthalten     | Etwas ist als Inhalt or eingerechnet in etwas           | In dem Mietpreis sind alle Nebenkosten enthalten.                             |
+| erheben                      | in die Höhe heben                                       | Er erhebt seine Stimme, wenn er streit.                                       |
+| erwischen                    | Fassen, ergreifen                                       |                                                                               |
+| hindeuten                    | auf jemanden, etwas, in eine bestimmte Richtung deuten  | Dunkles wetter deutet darauf hin, dass es regnen wird.                        |
+| sich ableiten                | Aus etwas entwickeln, folgen                            | Das Wort leitet sich aus dem Griechischen ab.                                 |
+| sich begeben                 | An einem bestimmten Ort, irgendwohin gehen, fahren      | Er begebe sich ins Hotel.                                                     |
+| sich einstellen              | sich darstellen                                         |                                                                               |
+| vermuten                     | Glauben, dass sich etwas in bestimmter Weise verhält    | Ich vermute, dass sie eine kluge Frau ist.                                    |
+| verschütten                  | To spill                                                |                                                                               |
+| wagen                        | Etwas neues ausprobieren, ohne Risiko überlegen         |                                                                               |
+| zusammensetzen               | To compose, zusammenfügen                               |                                                                               |
+|------------------------------+---------------------------------------------------------+-------------------------------------------------------------------------------|
