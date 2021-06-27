@@ -226,7 +226,7 @@
 |-----------+----------+---------+---------+--------+-----------------------------------------------------|
 | Nominativ | der      | die     | das     | die    | Der Mann, der dort steht, ist mein Vater            |
 |-----------+----------+---------+---------+--------+-----------------------------------------------------|
-| Akkustaiv | den      | die     | das     | die    | Der Bus, auf den ich Warte, kommt in 10 Minuten     |
+| Akkustaiv | den      | die     | das     | die    | Der Bus, auf den ich warte, kommt in 10 Minuten     |
 |-----------+----------+---------+---------+--------+-----------------------------------------------------|
 | Dativ     | dem      | der     | dem     | denen  | Das Haus, von dem ich träume, hat ein Schwimmbecken |
 |           |          |         |         |        | Das sind die Frauen, denen ich vertraue.            |
@@ -235,7 +235,7 @@
 |-----------+----------+---------+---------+--------+-----------------------------------------------------|
 - Die Relativpronomen leiten Relativsätze ein
 - Das genus und der Numerus vom Bezugswort bestimmem
-- Das Verb des Nebensatz bestimmt den Kasus des Relativepronomens
+- Das Verb des Nebensatzes bestimmt den Kasus des Relativepronomens
 - oder, wenn vorhanden die Praposition
 ** Prapositional Pronomen 
 *nur for Sache (things)*
@@ -529,6 +529,16 @@
 |                              | (An)statt lange zu telefonieren, könntest | (An)statt wir lange telefonieren, könnten Sie mir |                                                   |
 |                              | du das Angebot fertig machen.             | das Angebot per Mail schicken.                    |                                                   |
 |------------------------------+-------------------------------------------+---------------------------------------------------+---------------------------------------------------|
+
+- temporale Konnektoren
+|--------------+-----------+---------------------------------------------------------------------------------|
+| Zeit         | Konnektor | Beispeil                                                                        |
+|--------------+-----------+---------------------------------------------------------------------------------|
+| gleichzeitig | solange   | Solage in auf der Schule war, habe ich immer in den Ferein als Aushilfe gejobbt |
+| vorzeitig    | sobald    | Sobald ich mit der Schule fertig war, habe ich mit einer Ausbildung angefangen  |
+| vorzeitig    | nachdem   | Nachdem ich das Studium abgeschlossen hatte, reiste ich durch die Welt          |
+| nachzeitig   | bevor     | Bevor ich in die Schule kam, zogen meine Eltern nach Deutschland                |
+|--------------+-----------+---------------------------------------------------------------------------------|
 
 * Das Wort Es
 :PROPERTIES:

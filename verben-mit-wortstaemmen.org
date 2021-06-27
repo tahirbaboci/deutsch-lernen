@@ -1,6 +1,7 @@
 * Inhaltverzeichnis
 - [[#setzen][setzen]]
 - [[#sehen][sehen]]
+- [[#geben][geben]]
 * setzen
 :PROPERTIES:
 :CUSTOM_ID: setzen
@@ -66,5 +67,21 @@
 | *jdn von oben herab sehen /*     | jemand stellt sich über eine andere Person                         | Er sieht uns immer von oben herab an. ich habe schon die Nase voll davon.                                            |
 | *auf jdn von oben herab schauen* | und zeigt dies durch sein/ihr Verhalten                            |                                                                                                                      |
 |----------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------|
-
-
+* geben
+:PROPERTIES:
+:CUSTOM_ID: geben
+:END:
+|----------------------------------------------+-------------------------------------------------+-------------------------------------------------------------------------------|
+| Verb                                         | Bedeutung                                       | Beispiel                                                                      |
+|----------------------------------------------+-------------------------------------------------+-------------------------------------------------------------------------------|
+| *etw. (Akk.) aufgeben*                       | mit einer Tätigkeit aufhören                    | Ich habe meinen alten Job aufgegeben und mich selbstständig gemacht.          |
+| *etw. (Akk.) angeben*                        | bestimmte Information über sich selbst miteilen | Zur Verifizierung müssen bestimmte Daten angegeben werden.                    |
+| *etw. (Akk.) zugeben*                        | etw gestehen                                    | Mark hat mir gegenüber zugegeben, dass er sie zufällig zerbrochen hat.        |
+| *etw. (Akk.) zugeben*                        | etw gestehen                                    | Ich gebe zu, dass ich es ein bisschen übertrieben habe.                       |
+| *sich (bewusst) mit etw./jdn. (Dat) umgeben* | Aktiv                                           | Lena umgibt sich immer mit anderen Künstlern.                                 |
+| *von etw. umgeben sein*                      | Passiv                                          | Auf der Arbeit bin ich jetz von so tollen und hilfsbereiten Menschen umgeben. |
+| *jdm vergeben*                               | *jdm verzeihen*                                 | Vergib mir bitte. Ich hab's total verpeilt.                                   |
+| *etw (Akk) vergeben*                         | etw. (für besondere Leistungen) verteilen       | Man kann einen Preis verteilen                                                |
+| *sich ergeben*                               | eine Folge von etwas sein / aus etw folgen      | Es hast sich so vergeben, dass wir früher zurücfahren mussten.                |
+| *sich aus etw(Akk) ergeben*                  | eine Folge von etwas sein / aus etw folgen      | Das hat sich bestimmt aus ihren zuletzt nicht guten Leistungen ergeben        |
+| *etw (Akk) eingeben*                         | etw. auf einem elektronischen Gerät eintippen   | Bitte geben Sie Ihren Benutzennamen und Passwort ein.                         |
