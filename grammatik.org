@@ -534,7 +534,7 @@
 |--------------+-----------+---------------------------------------------------------------------------------|
 | Zeit         | Konnektor | Beispeil                                                                        |
 |--------------+-----------+---------------------------------------------------------------------------------|
-| gleichzeitig | solange   | Solage in auf der Schule war, habe ich immer in den Ferein als Aushilfe gejobbt |
+| gleichzeitig | solange   | Solange in auf der Schule war, habe ich immer in den Ferein als Aushilfe gejobbt |
 | vorzeitig    | sobald    | Sobald ich mit der Schule fertig war, habe ich mit einer Ausbildung angefangen  |
 | vorzeitig    | nachdem   | Nachdem ich das Studium abgeschlossen hatte, reiste ich durch die Welt          |
 | nachzeitig   | bevor     | Bevor ich in die Schule kam, zogen meine Eltern nach Deutschland                |

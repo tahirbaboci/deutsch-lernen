@@ -4,6 +4,7 @@
 - [[#meinung-auessern][Meinung aüßern]]
 - [[#je-nachdem][Je nachdem]]
 - [[#allgemiene-phrasen][Allgemiene Phrasen]]
+- [[#nicht-wissen-oder-verstehen][ich weiss es nicht / ich verstehe es nicht]]
 
 * Bescheid
 :PROPERTIES:
@@ -142,3 +143,22 @@
 | lästig              | annoying                          | Seine Verhalt was lästig.                                           |
 | ueberaus            | in ungewöhnlich hohem Grade, Maße | Sie ist überaus schell.                                             |
 |---------------------+-----------------------------------+---------------------------------------------------------------------|
+* ich weiss es nicht / ich verstehe es nicht
+:PROPERTIES:
+:CUSTOM_ID: nicht-wissen-oder-verstehen
+:END:
+|------------------------------------+------------------------------------+------------------------------------------------------------------------|
+| Phrase                             | Alternativ                         | Beispiel                                                               |
+|------------------------------------+------------------------------------+------------------------------------------------------------------------|
+| ich weiss es nicht                 | Mir fällt dazu (nichts) ein        | Leider fällt mir dazu gerade nichts ein. Es tut mir leid.              |
+| ich weiss es nicht                 | sich mit etw. (nicht) auskennen    | Nein, damit kenne ich mich leider überhaupt nicht aus.                 |
+| ich weiss es nicht                 |                                    | Du fragst mich was. Ich hab' null Ahnung davon.                        |
+| ich weiss es null                  |                                    | Da fragst du den Falschen. Ich und Autos?                              |
+|------------------------------------+------------------------------------+------------------------------------------------------------------------|
+| ich verstehe es nicht              | etw. (nicht) nachvollziehen können | Manche Sachen im deutschen Steuersystem kann ich nicht nachvollziehen. |
+| ich verstehe es nicht              | jdm. fällt etw schwer              | Es fällt mir richtig schwer, das Ganze zu verstehen.                   |
+|------------------------------------+------------------------------------+------------------------------------------------------------------------|
+| ich verstehe deine Erklärung nicht |                                    | Ich komme bei deiner Erklärung leider überhaupt nicht mit.             |
+| ich verstehe deine Erklärung nicht |                                    | Deine Erklärung kann ich leider überhaupt nicht folgen.                |
+|------------------------------------+------------------------------------+------------------------------------------------------------------------|
+
