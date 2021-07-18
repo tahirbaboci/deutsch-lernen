@@ -5,7 +5,7 @@
 - [[#je-nachdem][Je nachdem]]
 - [[#allgemiene-phrasen][Allgemiene Phrasen]]
 - [[#nicht-wissen-oder-verstehen][ich weiss es nicht / ich verstehe es nicht]]
-
+- [[#ausdruck-verbesseren-mit-konnektoren][Ausdruck verbesseren mit Konnektoren]]
 * Bescheid
 :PROPERTIES:
 :CUSTOM_ID: Bescheid
@@ -161,4 +161,14 @@
 | ich verstehe deine Erklärung nicht |                                    | Ich komme bei deiner Erklärung leider überhaupt nicht mit.             |
 | ich verstehe deine Erklärung nicht |                                    | Deine Erklärung kann ich leider überhaupt nicht folgen.                |
 |------------------------------------+------------------------------------+------------------------------------------------------------------------|
-
+* Ausdruck verbesseren mit diesen Konnektoren
+:PROPERTIES:
+:CUSTOM_ID: ausdruck-verbesseren-mit-konnektoren
+:END:
+- /Bedeutung - Folge/
+  - Ein Kollege in Freiburg ist gerade Krank. *Daher / Von Daher / Deshalb / Deswegen / Dadurch / Aus diesem Grund / Aufgrund dessen / Infolge dessen* muss ich jetzt dahin pendeln, weil ich versetzt worden ist.
+  - In unserer aktullen Wohnung kämpfen wir seit 2 Jahen gegen den sich ausbreitenden Schimmel. Furchtbar, Mittlerweile ist es unerträglich geworden, *daher / dadurch / deswegen* müssen wir jetzt umziehen.
+- /Bedeutung - Einschränkung/
+  - Eine Freundin von mir ist vor Kurzem nach Kanada ausgewandert. Sie ist super glücklich, *allerdings / jedoch / dennoch* sie gibt selbst zu, dass sie noch einige Zeit brauchen wird,  um sich dort einzuleben.
+- /temporale Bedeutung/
+  - Auf der Betriebsfeier gestern habe ich mich ganz doll mit Lena gestritten. *Daraufhin / Darauffolgend / Im Anschluss / Letztendlich* bin ich sofort nach Hause gegangen, weil ich keine Lust mehr auf die Feier hatte.
