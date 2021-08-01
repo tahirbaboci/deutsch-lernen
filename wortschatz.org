@@ -1,4 +1,13 @@
+* Inhaltverzeichnis
+- [[#nomen-mit-festen-praeposition][Nomen mit festen Präposition]]
+- [[#allgemeine-wortschatz][Allgemeine Wortschatz]]
+- [[#adjektive-mit-festen-praeposition][Adjektive mit festen Präposition]]
+- [[#substantiv][Substantiv]]
+- [[#wichtige-adjektive-fuer-einen-guten-ausdruck][Wichtige Adjektive für einen guten Ausdruck]]
 * Nomen mit festen Präposition
+:PROPERTIES:
+:CUSTOM_ID: nomen-mit-festen-praeposition
+:END:
 |-----------+--------------------+----------|
 |           | Bedeutung          | Beispeil |
 |-----------+--------------------+----------|
@@ -20,6 +29,9 @@
 |-----------+--------------------+----------|
 
 * Allgemeine Wortschatz
+:PROPERTIES:
+:CUSTOM_ID: allgemeine-wortschatz
+:END:
 |------------------+---------------+------------|
 | *Wort            | Meinung       | Gegenteil* |
 |------------------+---------------+------------|
@@ -30,6 +42,9 @@
 | die Enttäuschung |               |            |
 |------------------+---------------+------------|
 * Adjektive mit festen Präposition
+:PROPERTIES:
+:CUSTOM_ID: adjektive-mit-festen-praeposition
+:END:
 |-----------+------------------+----------|
 |           | Bedeutung        | Beispeil |
 |-----------+------------------+----------|
@@ -49,6 +64,9 @@
 |           | nett zu          |          |
 |-----------+------------------+----------|
 * Substantiv
+:PROPERTIES:
+:CUSTOM_ID: substantiv
+:END:
 |------------------+------------------------------------------------------------------------+------------------------------------------------------------|
 | Wort oder Phrase | Bedeutung                                                              | Beispiel                                                   |
 |------------------+------------------------------------------------------------------------+------------------------------------------------------------|
@@ -57,3 +75,36 @@
 | Geste            | Handlung oder Mitteilung, die etwas indirekt ausdrücken soll (gesture) | Vergeben ist eine freundliche Geste.                       |
 | Vorgang (r)      | Entwicklung, Prozess                                                   | Er erforscht die chemischen Vorgänge bei der Fotosynthese. |
 |------------------+------------------------------------------------------------------------+------------------------------------------------------------|
+* Wichtige Adjektive für einen guten Ausdruck
+:PROPERTIES:
+:CUSTOM_ID: wichtige-adjektive-fuer-einen-guten-ausdruck
+:END:
+|-----------------+-----------------------------------------+----------------------------------------------------------------------------------------|
+| Adjektiv        | Meinung                                 | Beispiel                                                                               |
+|-----------------+-----------------------------------------+----------------------------------------------------------------------------------------|
+| plausibel       | klar, verständlich                      | Ja, das war eine ganz plausible Erklärung. Ich denke, ich bin jetzt gut vorbereitet.   |
+|                 |                                         |                                                                                        |
+|                 |                                         | Klingt ganz plausibel. Probieren wir mal aus.                                          |
+|-----------------+-----------------------------------------+----------------------------------------------------------------------------------------|
+| bedrückt        | traurig                                 | Ist alles in Ordnung. Du wirkst heute ein bisschen bedrückt.                           |
+|                 |                                         |                                                                                        |
+|                 |                                         | Na ja, die Stimmung gestern war ein bisschen bedrückt,                                 |
+|                 |                                         | weil sich das Geburtstagskind kurz davor von seiner Freundin getrennt hat.             |
+|-----------------+-----------------------------------------+----------------------------------------------------------------------------------------|
+| anspruchsvoll   | schewierig                              | Der Teil Hörverstehen war echt anspruchsvoll. Ich hoffe, ich hab' ihn bestanden.       |
+|                 | (häufig bei kognitiven Fähigkeiten)     |                                                                                        |
+|                 |                                         | Das ist eine sehr anspruchsvolle Aufgabe. Ich gebe mein Bestes.                        |
+|-----------------+-----------------------------------------+----------------------------------------------------------------------------------------|
+| unberechenbar   | es ist unklar, was wir von einer Person | Sandra ist echt eine unberechenbarer Mensch. Tja..                                     |
+|                 | oder eine Situation erwarten soll.      |                                                                                        |
+|                 |                                         | Der Sommer letzten Jahres war echt unberechenbar.                                      |
+|                 |                                         | Deshalb haben wir unseren Urlaub erst wenige Tage vorher gebucht.                      |
+|-----------------+-----------------------------------------+----------------------------------------------------------------------------------------|
+| aufschlussreich | interessant i.S.v informativ            | Die Beratung war wirklich sech aufschlussreich. Ich habe sehr viel Neues dazu gelernt. |
+|-----------------+-----------------------------------------+----------------------------------------------------------------------------------------|
+| zuversichtlich  | optimisch                               | Ich bin zuversichtlich, das wir es gemeinsam schaffen können.                          |
+|                 |                                         |                                                                                        |
+|                 |                                         | Ich bin zuversichtlich, das Sie nach der Behandlung wieder gesund werden können.       |
+|-----------------+-----------------------------------------+----------------------------------------------------------------------------------------|
+
+
