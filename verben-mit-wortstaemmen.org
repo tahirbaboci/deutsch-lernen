@@ -2,6 +2,7 @@
 - [[#setzen][setzen]]
 - [[#sehen][sehen]]
 - [[#geben][geben]]
+- [[#fallen][fallen]]
 * setzen
 :PROPERTIES:
 :CUSTOM_ID: setzen
@@ -85,7 +86,11 @@
 | *sich ergeben*                               | eine Folge von etwas sein / aus etw folgen      | Es hast sich so vergeben, dass wir früher zurücfahren mussten.                |
 | *sich aus etw(Akk) ergeben*                  | eine Folge von etwas sein / aus etw folgen      | Das hat sich bestimmt aus ihren zuletzt nicht guten Leistungen ergeben        |
 | *etw (Akk) eingeben*                         | etw. auf einem elektronischen Gerät eintippen   | Bitte geben Sie Ihren Benutzennamen und Passwort ein.                         |
+|----------------------------------------------+-------------------------------------------------+-------------------------------------------------------------------------------|
 * fallen
+:PROPERTIES:
+:CUSTOM_ID: fallen
+:END:
 |-----------+-------------------------------------------+-----------------------------------------------------------------|
 | Verb      | Bedeutung                                 | Beispiel                                                        |
 |-----------+-------------------------------------------+-----------------------------------------------------------------|
