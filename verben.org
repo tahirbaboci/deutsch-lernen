@@ -21,24 +21,6 @@
 | anziehen     | anziehen | Ich ziehe mich an           |
 |              |          | Ich ziehe mir den Mantel an |
 
-* Hauefigbenutzte verben
-:PROPERTIES:
-:CUSTOM_ID: hauefigbenutzte-verben
-:END:
-|--------------------------------------+-----------+---------------+--------------------------------------------|
-| Verb                                 | Kasus     | Prapositionen | Beispeil                                   |
-|--------------------------------------+-----------+---------------+--------------------------------------------|
-| erlauben + Dative                    | Dativ     | -             |                                            |
-| beschweren + sich + über + Akkusativ | Akkusativ | über          | Ich beschwere mich über das Wetter.        |
-| verlieben + in + Akkusativ + sich    | Akkusativ | in            | Ich bin in einen Mann verliebt             |
-| sich aufregen über                   | Akkusativ | über          | Ich rege mich über dich auf                |
-|--------------------------------------+-----------+---------------+--------------------------------------------|
-| sich kümmern um                      |           | um            |                                            |
-| sprechen über                        | Akkusativ | über          | Ich spreche mit meinem Vater über ihn.     |
-| fragen nach                          | Dativ     | nach          | Ich frage nach dem Weg.                    |
-| verlieben in                         | Akkusativ | in            | Ich bein in meine Frau verliebt.           |
-| bedanken sich mit/bei für            | Akkusativ | für           | Ich bedanke mich bei euch für das Geschenk |
-|--------------------------------------+-----------+---------------+--------------------------------------------|
 * Verben mit unterschiedlichen Verwendungen
 :PROPERTIES:
 :CUSTOM_ID: verben-mit-unterschiedlichen-verwendungen
@@ -79,6 +61,7 @@
 |---------------------------------+--------------------------------------+-------------------------|
 | *Trennbare oder nich trennbare* | durch, über, um, unter               | Er fährt das Schild um. |
 |                                 |                                      | Er umfährt das Schild.  |
+|---------------------------------+--------------------------------------+-------------------------|
 
 - Wenn das Prefix eine eigene Bedeutung hat.
 * Alternativen von einfaecher Verben
@@ -112,29 +95,67 @@
 |   | Ich werde meine Prüfung machen.                         | Ich werde meine Prüfung *ablegen*. (zukunft)                         |
 |   |                                                         | Vor zwei Monaten habe ich meine Prüfung *bestanden*. (Vergangenheit) |
 |---+---------------------------------------------------------+----------------------------------------------------------------------|
+* Hauefigbenutzte verben
+:PROPERTIES:
+:CUSTOM_ID: hauefigbenutzte-verben
+:END:
+|--------------------------------------+-----------+---------------+--------------------------------------------|
+| Verb                                 | Kasus     | Prapositionen | Beispeil                                   |
+|--------------------------------------+-----------+---------------+--------------------------------------------|
+| erlauben + Dative                    | Dativ     | -             |                                            |
+| beschweren + sich + über + Akkusativ | Akkusativ | über          | Ich beschwere mich über das Wetter.        |
+| verlieben + in + Akkusativ + sich    | Akkusativ | in            | Ich bin in einen Mann verliebt             |
+| sich aufregen über                   | Akkusativ | über          | Ich rege mich über dich auf                |
+|--------------------------------------+-----------+---------------+--------------------------------------------|
+| sich kümmern um                      |           | um            |                                            |
+| sprechen über                        | Akkusativ | über          | Ich spreche mit meinem Vater über ihn.     |
+| fragen nach                          | Dativ     | nach          | Ich frage nach dem Weg.                    |
+| verlieben in                         | Akkusativ | in            | Ich bein in meine Frau verliebt.           |
+| bedanken sich mit/bei für            | Akkusativ | für           | Ich bedanke mich bei euch für das Geschenk |
+|--------------------------------------+-----------+---------------+--------------------------------------------|
 * Verben
 :PROPERTIES:
 :CUSTOM_ID: verb-liste
 :END:
-|------------------------------+---------------------------------------------------------+-------------------------------------------------------------------------------|
-| Verb                         | Bedeutung                                               | Beispiel                                                                      |
-|------------------------------+---------------------------------------------------------+-------------------------------------------------------------------------------|
-| auftauen                     | To unfreeze /to melt                                    | Wegene des Klimawandels taut das Eis in Arktis auf.                           |
-| ausgefallen                  | Ungewöhnlich, nicht alltäglich, extravagant             | Das war ein ausgefallener Schlag.                                             |
-| begleiten                    | mitfahren, an einem bestimmten Ort bringen, führen      | Ich begleite dich zum Bahnhof.                                                |
-| durch etw. verursacht werden | To be caused by sth.                                    | Der Klimawandel durch den Menschen verursacht werden.                         |
-| einfallen                    | erinnern or denken an (z.b. Eine Idee)                  |                                                                               |
-| eintauchen                   | unter die Wasseroberfläche gelangen, unter Wasser gehen | Ich bin bereit ins Roboterland einzutauchen.                                  |
-| entfliehen                   | entkommen                                               | Viele Syrische entfliehen seine Heimat, weil es gefährlich ist dort zu leben. |
-| etwas in etwas enthalten     | Etwas ist als Inhalt or eingerechnet in etwas           | In dem Mietpreis sind alle Nebenkosten enthalten.                             |
-| erheben                      | in die Höhe heben                                       | Er erhebt seine Stimme, wenn er streit.                                       |
-| erwischen                    | Fassen, ergreifen                                       |                                                                               |
-| hindeuten                    | auf jemanden, etwas, in eine bestimmte Richtung deuten  | Dunkles wetter deutet darauf hin, dass es regnen wird.                        |
-| sich ableiten                | Aus etwas entwickeln, folgen                            | Das Wort leitet sich aus dem Griechischen ab.                                 |
-| sich begeben                 | An einem bestimmten Ort, irgendwohin gehen, fahren      | Er begebe sich ins Hotel.                                                     |
-| sich einstellen              | sich darstellen                                         |                                                                               |
-| vermuten                     | Glauben, dass sich etwas in bestimmter Weise verhält    | Ich vermute, dass sie eine kluge Frau ist.                                    |
-| verschütten                  | To spill                                                |                                                                               |
-| wagen                        | Etwas neues ausprobieren, ohne Risiko überlegen         |                                                                               |
-| zusammensetzen               | To compose, zusammenfügen                               |                                                                               |
-|------------------------------+---------------------------------------------------------+-------------------------------------------------------------------------------|
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| Verb                     | Bedeutung                                               | Beispiel                                               |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| etw/jdn anerkennen       | etw/jdn akzeptieren oder respektieren                   |                                                        |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| auftauen                 | To unfreeze /to melt                                    | Wegene des Klimawandels taut das Eis in Arktis auf.    |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| ausgefallen              | Ungewöhnlich, nicht alltäglich, extravagant             | Das war ein ausgefallener Schlag.                      |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| begleiten                | mitfahren, an einem bestimmten Ort bringen, führen      | Ich begleite dich zum Bahnhof.                         |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| einfallen                | erinnern or denken an (z.b. Eine Idee)                  |                                                        |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| eintauchen               | unter die Wasseroberfläche gelangen, unter Wasser gehen | Ich bin bereit ins Roboterland einzutauchen.           |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| entfliehen               | entkommen                                               | Viele Syrische entfliehen seine Heimat,                |
+|                          |                                                         | weil es gefährlich ist dort zu leben.                  |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| erheben                  | in die Höhe heben                                       | Er erhebt seine Stimme, wenn er streit.                |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| erwischen                | Fassen, ergreifen                                       |                                                        |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| hindeuten                | auf jemanden, etwas, in eine bestimmte Richtung deuten  | Dunkles wetter deutet darauf hin, dass es regnen wird. |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| sich ableiten            | Aus etwas entwickeln, folgen                            | Das Wort leitet sich aus dem Griechischen ab.          |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| sich begeben             | An einem bestimmten Ort, irgendwohin gehen, fahren      | Er begebe sich ins Hotel.                              |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| sich einstellen          | sich darstellen                                         |                                                        |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| vermuten                 | Glauben, dass sich etwas in bestimmter Weise verhält    | Ich vermute, dass sie eine kluge Frau ist.             |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| verschütten              | To spill                                                |                                                        |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| wagen                    | Etwas neues ausprobieren, ohne Risiko überlegen         |                                                        |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| zusammensetzen           | To compose, zusammenfügen                               |                                                        |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| jdm. etw. (Akk) zumuten  | von jdm. etw. verlangen                                 | Das kannst du ihm doch nicht zumuten.                  |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|
+| etw. Dat. gerecht werden | to satisfy sth.                                         |                                                        |
+|--------------------------+---------------------------------------------------------+--------------------------------------------------------|

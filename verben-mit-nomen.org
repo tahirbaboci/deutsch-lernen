@@ -1,17 +1,30 @@
 [[https://deutschtraining.org/deutsche-grammatik/substantive/nomen-verb-verbindungen/][Hinweis]]
 
-|----+--------------------------+----------------------------+----------|
-|    |                          | Bedeutung                  | Beispeil |
-|----+--------------------------+----------------------------+----------|
-|  1 | sich in Acht nehmen vor  | aufpassen, vorsichtig sein |          |
-|  2 | Abschied nehmen von      | sich verabschieden         |          |
-|  3 | die Absicht haben        | beabsichtigen              |          |
-|  4 | eine Anderung vornehmen  | ändern                     |          |
-|  5 | Anerkennung finden       | anerkannt werden           |          |
-|  6 | eine Angebot machen      | etwas anbieten             |          |
-|  7 | jmd. Angst machen        | sich ängstigen vor         |          |
-|  8 | in Anspruch nehmen       | benutzen, beanspruchen     |          |
-|  9 | Anteil nehmen            | mitfühlen                  |          |
-| 10 | einen Antrag stellen auf | beantragen                 |          |
-|----+--------------------------+----------------------------+----------|
-#+TBLFM: $1=@#-1
+|--------------------------------+-------------------------------+----------------------------------------------------------------------------------|
+|                                | Bedeutung                     | Beispeil                                                                         |
+|--------------------------------+-------------------------------+----------------------------------------------------------------------------------|
+| sich in Acht nehmen vor        | aufpassen, vorsichtig sein    |                                                                                  |
+| Abschied nehmen von            | sich verabschieden            |                                                                                  |
+| die Absicht haben              | beabsichtigen                 |                                                                                  |
+| eine Anderung vornehmen        | ändern                        |                                                                                  |
+| Anerkennung finden             | anerkannt werden              |                                                                                  |
+| eine Angebot machen            | etwas anbieten                |                                                                                  |
+| jmd. Angst machen              | sich ängstigen vor            |                                                                                  |
+| in Anspruch nehmen             | benutzen, beanspruchen        |                                                                                  |
+| Anteil nehmen                  | mitfühlen                     |                                                                                  |
+| einen Antrag stellen auf       | beantragen                    |                                                                                  |
+| von etw. (Dat) Gebrauch machen | etw. für sich nutzen          | Davon sollten sie unbedingt Gebrauch machen.                                     |
+|--------------------------------+-------------------------------+----------------------------------------------------------------------------------|
+| zum Einsatz kommen             | verwenden werden              | In den Unternehmen sollten neue Technologien _zum Einsatz kommen_, die           |
+|                                |                               | dem Klimaschutz /gerecht werden/                                                 |
+|--------------------------------+-------------------------------+----------------------------------------------------------------------------------|
+| Stellung zu etw. (Dat.) nehmen | sich äußern / ausdrücken      | _Nehmen_ sie bitte _Stellung zu diesem Thema_                                    |
+|                                |                               | Die Bundeskanzlerin möchte heute Abend zur aktullen Entwicklung Stellung nehmen. |
+|--------------------------------+-------------------------------+----------------------------------------------------------------------------------|
+| zur Sprache bringen            | etw. ansprechen/thematisieren | Mein Chef hat heute beim Personaltreffen das Thema Rassismus zur Sprache         |
+|                                |                               | gebracht, weil rassistliche Vorfälle immer häufiger vorgekommen sind.            |
+|                                |                               |                                                                                  |
+|                                |                               | Die unglieche Bezahlung von Männern und Frauen sollte man häufiger zur Sprache   |
+|                                |                               | bringen.                                                                         |
+|--------------------------------+-------------------------------+----------------------------------------------------------------------------------|
+| Auswahl treffen                | etwas auswählen / wählen      |                                                                                  |

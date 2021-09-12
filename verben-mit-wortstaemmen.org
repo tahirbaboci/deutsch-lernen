@@ -85,3 +85,28 @@
 | *sich ergeben*                               | eine Folge von etwas sein / aus etw folgen      | Es hast sich so vergeben, dass wir früher zurücfahren mussten.                |
 | *sich aus etw(Akk) ergeben*                  | eine Folge von etwas sein / aus etw folgen      | Das hat sich bestimmt aus ihren zuletzt nicht guten Leistungen ergeben        |
 | *etw (Akk) eingeben*                         | etw. auf einem elektronischen Gerät eintippen   | Bitte geben Sie Ihren Benutzennamen und Passwort ein.                         |
+* fallen
+|-----------+-------------------------------------------+-----------------------------------------------------------------|
+| Verb      | Bedeutung                                 | Beispiel                                                        |
+|-----------+-------------------------------------------+-----------------------------------------------------------------|
+| ausfallen | - etwas Geplantes findet nicht statt      | - Die Deutschstunde fällt heute aus.                            |
+|           | - Menschen die bereits für etwas          | - Der Zug ist ausgefallen.                                      |
+|           | eingeplant wurden, fehlen                 | - Sandra fällt heute aus. Ihre Tochter ist krank und            |
+|           | - etwas funktioniert nicht mehr (technik) | sie hat sie ins Krankenhaus gefahren.                           |
+|           |                                           | - Ich glaube, der Storm ist im ganzen Haus ausgefallen.         |
+|           |                                           | - Sie haben sich für einen Workshop eingetragen.                |
+|           |                                           | Leider fällt er aufgrund der aktullen Pandemielage aus.         |
+|-----------+-------------------------------------------+-----------------------------------------------------------------|
+| einfallen | - in den Sinn kommen                      | - Klar! Ach nee, warte mal, mir ist gerade eingefallen,         |
+|           | - plötzlich an etw. denken                | dass ich heute noch zum Baumarkt muss. Es tut mir leid!         |
+|           | - sich plötzlich an etw. errineren        | - Weißt du das? Mir fällt gerade ein, dass wir heute beim       |
+|           |                                           | Einkaufen an die Sahne nicht gedacht haben. Ich brauche sie     |
+|           |                                           | morgen unbedingt.                                               |
+|           |                                           | - So spontan fällt mir nichts ein. Ich überlege es mir.         |
+|-----------+-------------------------------------------+-----------------------------------------------------------------|
+| auffallen | - ins Auge springen                       | - Ist dir gestern auch aufgefallen, dass Maria den ganzen       |
+|           | - bemerkenswert bzw. unübersehbar sein    | Abend über bedrück wirkte.                                      |
+|           |                                           | - Thomas ist mir sofort durch seine Stimme aufgefallen.         |
+|           |                                           | - Als wir auf Bali angekommen sind, ist mir sofort aufgefallen, |
+|           |                                           | wir leer die Strände sind.                                      |
+|-----------+-------------------------------------------+-----------------------------------------------------------------|

@@ -124,8 +124,25 @@
 | fragen nach    |         | Ich frage nach der Abfahrtszeit der Bahn. |
 | schmecken nach |         | Die Suppe schmeckt nach Salz.             |
 * an
-|------------------+---------+------------------------------------|
-| Verb             | Meinung | Beispiel                           |
-|------------------+---------+------------------------------------|
-| glauben an (akk) |         | Ich glaube nicht an die Politiker. |
-| denken an (akk)  |         | Ich denk oft an meine Kindheit.    |
+|------------------------+------------------------+---------------------------------------------------------------------------------------|
+| Verb                   | Meinung                | Beispiel                                                                              |
+|------------------------+------------------------+---------------------------------------------------------------------------------------|
+| glauben an (akk)       |                        | Ich glaube nicht an die Politiker.                                                    |
+| denken an (akk)        |                        | Ich denk oft an meine Kindheit.                                                       |
+| an etw.(Dat) teilhaben | an etw. beteiligt sein | An der Entwicklung der Idee fürs neue Projekt haben sehr viele Mitarbeiter teilgehabt |
+|------------------------+------------------------+---------------------------------------------------------------------------------------|
+* zu
+|---------------------------------+-----------------------+------------------------------------------------------|
+| jdn.(Akk)zu etw.(Dat) ermuntern | jdn. zu etw ermutigen | Meine Eltern haben mich zum Studium in DE ermuntert. |
+|---------------------------------+-----------------------+------------------------------------------------------|
+|                                 |                       |                                                      |
+* durch
+|------------------------------+----------------------+-------------------------------------------------------|
+| durch etw. verursacht werden | To be caused by sth. | Der Klimawandel durch den Menschen verursacht werden. |
+|------------------------------+----------------------+-------------------------------------------------------|
+|                              |                      |                                                       |
+* in
+|--------------------------+-----------------------------------------------+---------------------------------------------------|
+| etwas in etwas enthalten | Etwas ist als Inhalt or eingerechnet in etwas | In dem Mietpreis sind alle Nebenkosten enthalten. |
+|--------------------------+-----------------------------------------------+---------------------------------------------------|
+|                          |                                               |                                                   |
