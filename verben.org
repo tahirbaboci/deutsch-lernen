@@ -3,8 +3,8 @@
 - [[#hauefigbenutzte-verben][Haüfigbenutzte verben]]
 - [[#verben-mit-unterschiedlichen-verwendungen][Verben mit untershiedlichen Verwendenen]]
 - [[#trennbare-verben][Trennbare Verben]]
-- [[verben-mit-praepositionen.org][Verben mit Präposition]]
 - [[#alternativen-von-einfaecher-verben][Alternativen von einfächern Verben]]
+- [[#verwechselbar-verben][Verwechselbare verben]]
 - [[#verb-liste][Verbliste]]
 * Dativ und Akkusativ Verben
 :PROPERTIES:
@@ -113,6 +113,49 @@
 | verlieben in                         | Akkusativ | in            | Ich bein in meine Frau verliebt.           |
 | bedanken sich mit/bei für            | Akkusativ | für           | Ich bedanke mich bei euch für das Geschenk |
 |--------------------------------------+-----------+---------------+--------------------------------------------|
+* verwechselbar Verben
+:PROPERTIES:
+:CUSTOM_ID: verwechselbar-verben
+:END:
+
+|----------------+------------------------------+---------------------------------------------------------------------------------|
+| ändern         | - eine Bewusste Handlung     | - Ich habe gerade den Titel des Videos geändert.                                |
+|                | - Jemand macht etwas anders  | - Mittlerweile habe ich aber meine Meinung geändert.                            |
+|                | - Aktive Handlung            | - Es bringt nichts, sich fertigzumachen. Man kann sowieso nichts mehr ändern.   |
+|                |                              | - Ich habe meine Meinung über ihn trotz seiner aktullen politischen Einstellung |
+|                |                              | natürlich nich geändert.                                                        |
+|----------------+------------------------------+---------------------------------------------------------------------------------|
+| sich verändern | - etwas passiert von alliene | - Der Titel des Videos hat sich verändert.                                      |
+|                | - passive Handlung           | - Wow, du hast dich aber wahnsinnig verändert.                                  |
+|                |                              | - Die Beziehungen zwischen zwei Ländern haben sich im Laufe der letzen zwanzig  |
+|                |                              | Jahre kaum verändert.                                                           |
+|                |                              | - Seine aktuelle politische Einstellung hat meine Meinung über ihn natürlich    |
+|                |                              | nicht verändert.                                                                |
+|                |                              | - Diese Erfahrung hat ihr ganzes Leben verändert.                               |
+|----------------+------------------------------+---------------------------------------------------------------------------------|
+
+|-------------+---------------------------------+---------------------------------------------------------------------|
+| sich melden | von sich hören lassen           | - oh, warte mal. Ich bin jetzt dran.  Ich melde mich später.        |
+|             |                                 | - Thomas meldet sich seit Wochen nicht mehr.                        |
+|             |                                 | - Melde dich bitte, wenn du angekommen bist.                        |
+|-------------+---------------------------------+---------------------------------------------------------------------|
+| melden      | etw. offizell bekanntgeben bzw. | - Er sollte diesen Schaden unbedingt der Polizei melden.            |
+|             | bekanntmachen                   | - Das Autoradio meldet einen Unfall auf der A9.                     |
+|-------------+---------------------------------+---------------------------------------------------------------------|
+| anmelden    | - sich registrieren bzw. etw.   | - Nach dem Umzug muss ich mich im Rathaus der neuen Stadt anmelden. |
+|             | geltend machen                  | - Ich habe mich gerade für eine Weiterbildung angemeldet.           |
+|             |                                 | - Mein Sohn möchte ab dem nächsten Jahr im Fußballverein spielen.   |
+|             |                                 | Deshalb muss ich ihn schnellstmöglich anmelden.                     |
+|-------------+---------------------------------+---------------------------------------------------------------------|
+
+|-----------+----------------------------+-----------------------------------------------------------------------------|
+| verwenden | - benutzen                 | - In meinem Sprachclub verwende ich diverse Lernmaterialien.                |
+|           | - to use                   | - Welche Ausrüstung verwendest du für deine Videos?                         |
+|           |                            | - Welche Gerwürze hast du verwendest? Es schmeckt hervorragend.             |
+|-----------+----------------------------+-----------------------------------------------------------------------------|
+| anwenden  | - von etw. Gebrauch machen | - In meinem Sprachclub wenden ich diverse Methoden an.                      |
+|           | - to apply                 | - Um Deutsch effektiv zu lernen, sollte man diverse Lerntechniken anwenden. |
+|-----------+----------------------------+-----------------------------------------------------------------------------|
 * Verben
 :PROPERTIES:
 :CUSTOM_ID: verb-liste
